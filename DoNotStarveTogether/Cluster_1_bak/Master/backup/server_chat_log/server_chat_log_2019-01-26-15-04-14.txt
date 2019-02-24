@@ -1,0 +1,19 @@
+[00:01:42]: [Join Announcement] Bo
+[00:06:58]: [Join Announcement] NEYUGN
+[00:11:42]: [Say] (KU_UnXy3wBQ) NEYUGN: 7 ngay nua het thu
+[00:11:48]: [Say] (KU_UnXy3wBQ) NEYUGN: ma ko thay con gau dau
+[00:11:55]: [Say] (KU_UnXy3wBQ) NEYUGN: gio lam gi
+[00:23:11]: [Skin Announcement] NEYUGN hand_longgloves_grey_battleship
+[00:23:58]: [Say] (KU_UnXy3wBQ) NEYUGN: nha toan giac
+[00:24:02]: [Say] (KU_UnXy3wBQ) NEYUGN: rac
+[00:25:59]: [Say] (KU_iC59_xkK) Bo: kiem cai con gi dem ve thu hoach di
+[00:26:05]: [Say] (KU_iC59_xkK) Bo: thu don
+[00:31:45]: [Leave Announcement] NEYUGN
+[00:35:29]: [Join Announcement] NEYUGN
+[00:37:15]: [Say] (KU_UnXy3wBQ) NEYUGN: lag vl
+[00:37:27]: [Say] (KU_UnXy3wBQ) NEYUGN: cuu
+[00:37:32]: [Say] (KU_UnXy3wBQ) NEYUGN: food
+[00:37:42]: [Say] (KU_UnXy3wBQ) NEYUGN: dm
+[00:38:02]: [Say] (KU_UnXy3wBQ) NEYUGN: lam cl gi kia
+[00:38:19]: [Say] (KU_UnXy3wBQ) NEYUGN: sao lam cai cho nau an the kia
+[00:45:03]: [Say] (KU_iC59_xkK) Bo: 

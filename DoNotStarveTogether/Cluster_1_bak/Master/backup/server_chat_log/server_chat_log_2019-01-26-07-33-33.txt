@@ -1,0 +1,19 @@
+[00:01:34]: [Join Announcement] Bo
+[00:02:39]: [Leave Announcement] Bo
+[00:05:57]: [Join Announcement] Bo
+[00:06:25]: [Leave Announcement] Bo
+[00:07:50]: [Join Announcement] Bo
+[00:09:45]: [Join Announcement] Monster
+[00:11:28]: [Say] (KU_2DNgIhao) Monster: e bo
+[00:11:32]: [Say] (KU_iC59_xkK) Bo: ?
+[00:11:32]: [Say] (KU_2DNgIhao) Monster: mo cave kia
+[00:11:35]: [Say] (KU_iC59_xkK) Bo: dang mo
+[00:11:41]: [Say] (KU_2DNgIhao) Monster: thang ocean no dang o dyuoi hang =))
+[00:11:49]: [Say] (KU_iC59_xkK) Bo: moi lan mo cave la server do lo`m =))
+[00:13:24]: [Join Announcement] Ocean
+[00:13:38]: [Say] (KU_2DNgIhao) Monster: de t doi event =))
+[00:13:43]: [Say] (KU_iC59_xkK) Bo: Mon, thang ocean no bao no khong vao, m kick no phat =))
+[00:13:56]: [Say] (KU_MflE4_vZ) Ocean: wt kick m
+[00:13:57]: [Say] (KU_MflE4_vZ) Ocean: =))
+[00:14:08]: [Say] (KU_2DNgIhao) Monster: doi event k =))
+[00:14:22]: [Say] (KU_MflE4_vZ) Ocean: 

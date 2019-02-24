@@ -1,0 +1,15 @@
+[00:02:34]: [Join Announcement] Ocean
+[00:02:59]: [Join Announcement] Bo
+[00:03:42]: [Say] (KU_MflE4_vZ) Ocean: fucj u
+[00:03:48]: [Say] (KU_MflE4_vZ) Ocean: dap cai loz
+[00:03:59]: [Say] (KU_iC59_xkK) Bo: the m la cai loz a =))
+[00:04:05]: [Say] (KU_MflE4_vZ) Ocean: cax
+[00:04:07]: [Join Announcement] NEYUGN
+[00:04:21]: [Death Announcement] NEYUGN was killed by Tentacle. She became a spooky ghost!
+[00:04:26]: [Say] (KU_MflE4_vZ) Ocean: hmmm
+[00:04:41]: [Resurrect Announcement] NEYUGN was resurrected by Life Giving Amulet.
+[00:04:44]: [Say] (KU_MflE4_vZ) Ocean: o
+[00:04:45]: [Say] (KU_MflE4_vZ) Ocean: troi toi
+[00:04:46]: [Say] (KU_MflE4_vZ) Ocean: sao hs
+[00:04:48]: [Say] (KU_MflE4_vZ) Ocean: =))
+[00:05:05]: [Say] (KU_MflE4_vZ) Ocean: 

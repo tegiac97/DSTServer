@@ -1,0 +1,45 @@
+[00:07:17]: [Join Announcement] Ocean
+[00:09:38]: [Join Announcement] NEYUGN
+[00:14:51]: [Say] (KU_MflE4_vZ) Ocean: doi bo r dap beequeen nhe
+[00:16:27]: [Join Announcement] Bo
+[00:16:51]: [Say] (KU_MflE4_vZ) Ocean: Nguyen lag cmnr
+[00:16:52]: [Say] (KU_MflE4_vZ) Ocean: =))
+[00:18:05]: [Leave Announcement] NEYUGN
+[00:21:03]: [Say] (KU_MflE4_vZ) Ocean: Nguyen dau r
+[00:21:07]: [Say] (KU_MflE4_vZ) Ocean: nghi luon r ak
+[00:21:07]: [Say] (KU_MflE4_vZ) Ocean: :v
+[00:21:24]: [Say] (KU_iC59_xkK) Bo: t vua thay no playing game
+[00:22:39]: [Join Announcement] NEYUGN
+[00:23:04]: [Say] (KU_iC59_xkK) Bo: farm chim dau?
+[00:23:13]: [Say] (KU_iC59_xkK) Bo: di kiem balo
+[00:24:13]: [Say] (KU_MflE4_vZ) Ocean: beequeen truoc nhe
+[00:25:54]: [Say] (KU_MflE4_vZ) Ocean: fang beequeen nao
+[00:25:58]: [Say] (KU_MflE4_vZ) Ocean: ae len do` di
+[00:26:06]: [Say] (KU_MflE4_vZ) Ocean: bo can lam ho hambat k
+[00:28:35]: [Say] (KU_UnXy3wBQ) NEYUGN: t lag va server cung lag
+[00:32:45]: [Say] (KU_UnXy3wBQ) NEYUGN: xin co
+[00:37:25]: [Say] (KU_MflE4_vZ) Ocean: damne queen di
+[00:37:53]: [Death Announcement] NEYUGN was killed by Bee Queen. She became a spooky ghost!
+[00:38:17]: [Say] (KU_UnXy3wBQ) NEYUGN: rollback
+[00:38:51]: [Resurrect Announcement] NEYUGN was resurrected by Life Giving Amulet.
+[00:39:01]: [Say] (KU_iC59_xkK) Bo: can roll khong?
+[00:39:06]: [Say] (KU_MflE4_vZ) Ocean: khoi di
+[00:39:07]: [Say] (KU_MflE4_vZ) Ocean: =))
+[00:40:13]: [Say] (KU_MflE4_vZ) Ocean: nao thi farm chym
+[00:44:04]: [Say] (KU_MflE4_vZ) Ocean: chi
+[00:44:07]: [Say] (KU_MflE4_vZ) Ocean: chiu
+[00:44:18]: [Death Announcement] Bo was killed by Bunnyman. He became a spooky ghost!
+[00:44:26]: [Say] (KU_iC59_xkK) Bo: lol =_))
+[00:44:41]: [Say] (KU_MflE4_vZ) Ocean: hong hot kieu day
+[00:44:41]: [Resurrect Announcement] Bo was resurrected by Life Giving Amulet.
+[00:44:42]: [Say] (KU_MflE4_vZ) Ocean: thi chiu
+[00:44:50]: [Say] (KU_iC59_xkK) Bo: t dan  no lai chuong thoi ma
+[00:45:05]: [Say] (KU_UnXy3wBQ) NEYUGN: xay chuong ko kin
+[00:45:11]: [Say] (KU_UnXy3wBQ) NEYUGN: tho xong ra ngoai
+[00:45:24]: [Say] (KU_MflE4_vZ) Ocean: van de la t k quan tam
+[00:45:27]: [Say] (KU_MflE4_vZ) Ocean: no kin hay k
+[00:45:34]: [Say] (KU_iC59_xkK) Bo: t deo lay duoc do nay'aw\
+[00:45:35]: [Say] (KU_MflE4_vZ) Ocean: t chi quant am la di qua farm tho
+[00:45:39]: [Say] (KU_MflE4_vZ) Ocean: thi vut thit di
+[00:45:40]: [Say] (KU_MflE4_vZ) Ocean: the thoi
+[00:45:40]: [Say] (KU_UnXy3wBQ) NEYUGN: 

@@ -1,0 +1,31 @@
+[00:01:18]: [Join Announcement] Bo
+[00:16:41]: [Leave Announcement] Bo
+[01:58:17]: [Join Announcement] NEYUGN
+[02:17:16]: [Leave Announcement] NEYUGN
+[02:20:34]: [Join Announcement] NEYUGN
+[03:02:59]: [Leave Announcement] NEYUGN
+[03:06:23]: [Join Announcement] NEYUGN
+[03:24:14]: [Death Announcement] NEYUGN was killed by Blue Hound. She became a spooky ghost!
+[03:24:18]: [Vote Announcement] rollback passed
+[03:29:10]: [Join Announcement] Bo
+[03:30:30]: [Say] (KU_UnXy3wBQ) NEYUGN: m doi nv tu bao gio the
+[03:30:42]: [Say] (KU_iC59_xkK) Bo: truoc khi ve que
+[03:30:48]: [Say] (KU_iC59_xkK) Bo: doi loan ca len
+[03:30:53]: [Say] (KU_iC59_xkK) Bo: nha nhieu gear maf =))
+[03:31:00]: [Say] (KU_UnXy3wBQ) NEYUGN: biet an gears ko?
+[03:31:12]: [Say] (KU_iC59_xkK) Bo: khong :v
+[03:31:23]: [Say] (KU_iC59_xkK) Bo: t chi biet la an gear lam tang chi so len thoi
+[03:32:03]: [Say] (KU_UnXy3wBQ) NEYUGN: con nay nang cap len trau lam
+[03:32:24]: [Say] (KU_UnXy3wBQ) NEYUGN: nhung dc moi tank, dame van the
+[03:32:29]: [Say] (KU_iC59_xkK) Bo: =)))
+[03:32:38]: [Say] (KU_iC59_xkK) Bo: the nen t dang dinh doi lai wg
+[03:32:57]: [Say] (KU_UnXy3wBQ) NEYUGN: nha thieu gi thuc an dau
+[03:33:16]: [Say] (KU_UnXy3wBQ) NEYUGN: thu hoanh thit kho giup t
+[03:33:16]: [Say] (KU_iC59_xkK) Bo: wg thi health giam theo hunger
+[03:33:41]: [Say] (KU_iC59_xkK) Bo: nua la wg no so ma vcl ra ay
+[03:33:49]: [Say] (KU_iC59_xkK) Bo: so ghost
+[03:34:00]: [Say] (KU_iC59_xkK) Bo: troi toi khonglam sang kijp la an loz
+[03:34:00]: [Say] (KU_UnXy3wBQ) NEYUGN: teo nao nhanh hon chut
+[03:34:07]: [Say] (KU_iC59_xkK) Bo: nao k lo
+[03:34:10]: [Say] (KU_iC59_xkK) Bo: co cai mu roi
+[03:34:12]: [Say] (KU_iC59_xkK) Bo: 

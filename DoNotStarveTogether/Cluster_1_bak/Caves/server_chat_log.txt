@@ -1,0 +1,584 @@
+[00:01:31]: [Join Announcement] Bo
+[00:01:34]: [Leave Announcement] Bo
+[00:12:47]: [Join Announcement] NEYUGN
+[00:13:42]: [Leave Announcement] NEYUGN
+[00:43:24]: [Join Announcement] NEYUGN
+[00:58:03]: [Skin Announcement] NEYUGN body_suspenders_white_pure
+[01:01:14]: [Join Announcement] Bo
+[01:01:28]: [Say] (KU_iC59_xkK) Bo: where?
+[01:02:41]: [Say] (KU_UnXy3wBQ) NEYUGN: Meo dau
+[01:02:44]: [Say] (KU_iC59_xkK) Bo: nghi roi
+[01:03:08]: [Say] (KU_UnXy3wBQ) NEYUGN: troi sang cat cau mu di
+[01:03:17]: [Say] (KU_UnXy3wBQ) NEYUGN: nong
+[01:03:58]: [Say] (KU_iC59_xkK) Bo:  (67�) I'm  almost overheating!
+[01:04:05]: [Say] (KU_iC59_xkK) Bo: cai kia dau?
+[01:04:26]: [Say] (KU_UnXy3wBQ) NEYUGN: quen duoi cave roi
+[01:04:44]: [Say] (KU_UnXy3wBQ) NEYUGN: t di lay
+[01:08:27]: [Say] (KU_UnXy3wBQ) NEYUGN: 97*C
+[01:12:43]: [Say] (KU_UnXy3wBQ) NEYUGN:  (71�) I'm  overheating!
+[01:13:35]: [Death Announcement] Bo was killed by Overheating. He became a spooky ghost!
+[01:13:37]: [Say] (KU_iC59_xkK) Bo: vc
+[01:13:41]: [Say] (KU_iC59_xkK) Bo: lag
+[01:13:45]: [Say] (KU_iC59_xkK) Bo: do lom
+[01:13:55]: [Resurrect Announcement] Bo was resurrected by Life Giving Amulet.
+[01:17:08]: [Say] (KU_UnXy3wBQ) NEYUGN: kiem thit di
+[01:17:16]: [Say] (KU_UnXy3wBQ) NEYUGN: het do an roi
+[01:17:30]: [Say] (KU_iC59_xkK) Bo: di dap heo
+[01:17:43]: [Say] (KU_UnXy3wBQ) NEYUGN: trang tron moi dau heo
+[01:18:01]: [Say] (KU_UnXy3wBQ) NEYUGN: dap tho y
+[01:18:08]: [Say] (KU_iC59_xkK) Bo: t deo biet choi voi tho =))
+[01:18:45]: [Say] (KU_UnXy3wBQ) NEYUGN: cho 1 con an carot
+[01:18:55]: [Say] (KU_UnXy3wBQ) NEYUGN: roi cho chung no danh lan nhau
+[01:19:19]: [Say] (KU_iC59_xkK) Bo: hom t lam thu roi, khong an thua
+[01:19:22]: [Say] (KU_iC59_xkK) Bo: no dap t sml
+[01:19:29]: [Say] (KU_iC59_xkK) Bo: t k lam dong tac gia duoc
+[01:19:32]: [Say] (KU_UnXy3wBQ) NEYUGN: de toi t lam mau cho
+[01:19:48]: [Say] (KU_UnXy3wBQ) NEYUGN:  (69�) I'm  almost overheating!
+[01:19:55]: [Say] (KU_UnXy3wBQ) NEYUGN: vl
+[01:20:02]: [Say] (KU_UnXy3wBQ) NEYUGN: 101*C
+[01:21:05]: [Say] (KU_UnXy3wBQ) NEYUGN: ra day xem nay
+[01:23:18]: [Death Announcement] Bo was killed by Bunnyman. He became a spooky ghost!
+[01:23:35]: [Resurrect Announcement] Bo was resurrected by Life Giving Amulet.
+[01:24:34]: [Say] (KU_iC59_xkK) Bo:  I have 6 meats.
+[01:25:18]: [Say] (KU_UnXy3wBQ) NEYUGN: de ma
+[01:26:00]: [Say] (KU_UnXy3wBQ) NEYUGN: thit voi carot dau het roi
+[01:26:14]: [Say] (KU_iC59_xkK) Bo: nay chet =))
+[01:26:21]: [Say] (KU_iC59_xkK) Bo: mat it thit
+[01:26:57]: [Say] (KU_UnXy3wBQ) NEYUGN: sao lai mat nhi
+[01:27:04]: [Say] (KU_iC59_xkK) Bo: t nghi tho an
+[01:27:11]: [Say] (KU_UnXy3wBQ) NEYUGN: tho ko an thit ma
+[01:34:10]: [Say] (KU_UnXy3wBQ) NEYUGN: t nghi day
+[01:34:13]: [Say] (KU_iC59_xkK) Bo: pp
+[01:34:14]: [Say] (KU_UnXy3wBQ) NEYUGN: mai choi tiep
+[01:34:22]: [Leave Announcement] NEYUGN
+[01:45:16]: [Leave Announcement] Bo
+[16:09:08]: [Join Announcement] Ocean
+[17:03:37]: [Skin Announcement] Ocean mysterybox_nature_4
+[17:38:10]: [Leave Announcement] Ocean
+[17:43:15]: [Join Announcement] Ocean
+[17:56:11]: [Join Announcement] Monster
+[17:56:15]: [Say] (KU_MflE4_vZ) Ocean: ? :D ?
+[17:56:22]: [Say] (KU_2DNgIhao) Monster: ? :D ?
+[17:56:26]: [Say] (KU_MflE4_vZ) Ocean: tu2
+[17:56:28]: [Say] (KU_MflE4_vZ) Ocean: keo t ve
+[17:56:32]: [Say] (KU_2DNgIhao) Monster: t tuong rs world r chu =))
+[17:56:35]: [Say] (KU_MflE4_vZ) Ocean: chua
+[17:56:37]: [Say] (KU_MflE4_vZ) Ocean: toi
+[17:56:39]: [Say] (KU_MflE4_vZ) Ocean: hoac mai
+[17:56:41]: [Say] (KU_MflE4_vZ) Ocean: co mo~
+[17:56:42]: [Say] (KU_MflE4_vZ) Ocean: thi rs
+[17:56:59]: [Say] (KU_MflE4_vZ) Ocean: soi
+[17:57:27]: [Say] (KU_2DNgIhao) Monster: khong trang kia :v
+[17:57:47]: [Say] (KU_2DNgIhao) Monster: ra dap luon ne
+[17:57:59]: [Say] (KU_MflE4_vZ) Ocean: keo ve di
+[17:58:22]: [Say] (KU_MflE4_vZ) Ocean: t dang dung o cong nay`
+[17:58:23]: [Say] (KU_MflE4_vZ) Ocean: =))
+[17:58:28]: [Say] (KU_2DNgIhao) Monster: vkl =))
+[17:58:34]: [Say] (KU_MflE4_vZ) Ocean: nhanh nao`
+[17:58:38]: [Say] (KU_2DNgIhao) Monster: r
+[17:59:05]: [Say] (KU_MflE4_vZ) Ocean:  We have 24 jerkys in this ice box.
+[17:59:11]: [Say] (KU_2DNgIhao) Monster:  I have 38 gears.
+[17:59:26]: [Say] (KU_2DNgIhao) Monster:  I have a hammer with 69% durability.
+[17:59:32]: [Say] (KU_2DNgIhao) Monster: dap ne
+[17:59:43]: [Say] (KU_MflE4_vZ) Ocean:  We have 80 gunpowders in this chest.
+[18:01:21]: [Death Announcement] Monster was killed by Gunpowder. They became a spooky ghost!
+[18:01:21]: [Say] (KU_MflE4_vZ) Ocean: =))
+[18:01:24]: [Say] (KU_2DNgIhao) Monster: ? :D ?
+[18:01:26]: [Say] (KU_MflE4_vZ) Ocean: =)))))))))))))))))))))))))))))))))))))))))))))))))))))))
+[18:01:30]: [Say] (KU_2DNgIhao) Monster: clmm =))
+[18:01:36]: [Vote Announcement] rollback passed
+[18:01:37]: [Say] (KU_MflE4_vZ) Ocean: =))
+[18:03:27]: [Say] (KU_MflE4_vZ) Ocean: hmm
+[18:04:03]: [Say] (KU_MflE4_vZ) Ocean: hmmm
+[18:04:05]: [Say] (KU_MflE4_vZ) Ocean: =))
+[18:04:18]: [Say] (KU_2DNgIhao) Monster: nhu shiet =))
+[18:04:41]: [Say] (KU_2DNgIhao) Monster:  I have a shadow thurible with  0% durability.
+[18:04:56]: [Say] (KU_MflE4_vZ) Ocean: ranh loz ak
+[18:05:01]: [Say] (KU_2DNgIhao) Monster: =))
+[18:05:23]: [Say] (KU_2DNgIhao) Monster: h lam j :v
+[18:05:23]: [Say] (KU_MflE4_vZ) Ocean: ranh lz thi di farm ong choi
+[18:05:24]: [Say] (KU_MflE4_vZ) Ocean: =))
+[18:05:35]: [Say] (KU_2DNgIhao) Monster: ong chua a
+[18:05:37]: [Say] (KU_MflE4_vZ) Ocean: beequeen ayt
+[18:05:45]: [Say] (KU_MflE4_vZ) Ocean:  We have 15 living logs in this scaled chest.
+[18:05:53]: [Say] (KU_2DNgIhao) Monster:  We have 141 pig skins in this chest.
+[18:05:57]: [Say] (KU_MflE4_vZ) Ocean: len va chien htoi
+[18:05:58]: [Say] (KU_2DNgIhao) Monster: vcc =))
+[18:06:20]: [Say] (KU_MflE4_vZ) Ocean: dit
+[18:06:26]: [Say] (KU_MflE4_vZ) Ocean: dua t 2 dui`
+[18:06:27]: [Say] (KU_2DNgIhao) Monster:  I have 7 cooked meats.
+[18:06:27]: [Say] (KU_MflE4_vZ) Ocean: dung
+[18:06:28]: [Say] (KU_MflE4_vZ) Ocean: dm
+[18:06:30]: [Say] (KU_MflE4_vZ) Ocean: dnmnnnn
+[18:06:35]: [Say] (KU_2DNgIhao) Monster: =))
+[18:06:42]: [Say] (KU_2DNgIhao) Monster:  We have 24 jerkys in this ice box.
+[18:07:28]: [Say] (KU_MflE4_vZ) Ocean: ?? :D ??
+[18:07:34]: [Say] (KU_2DNgIhao) Monster:  I have 11 meats.
+[18:07:42]: [Say] (KU_MflE4_vZ) Ocean: gay di bo cua m dau
+[18:07:51]: [Say] (KU_2DNgIhao) Monster: t co biet dau
+[18:08:03]: [Say] (KU_2DNgIhao) Monster:  I have 30 carrots.
+[18:08:36]: [Say] (KU_MflE4_vZ) Ocean: gay tele
+[18:08:37]: [Say] (KU_MflE4_vZ) Ocean: tu2
+[18:08:40]: [Say] (KU_MflE4_vZ) Ocean: de t lam mau~
+[18:08:40]: [Say] (KU_2DNgIhao) Monster:  I have a the lazy explorer with 75% durability.
+[18:08:53]: [Say] (KU_2DNgIhao) Monster:  We have 2 the lazy explorers in this scaled chest, and this one has 90% durability.
+[18:09:20]: [Say] (KU_MflE4_vZ) Ocean: come boiz
+[18:09:27]: [Skin Announcement] Monster body_suspenders_yellow_flax
+[18:09:31]: [Say] (KU_MflE4_vZ) Ocean: tele nay
+[18:09:31]: [Say] (KU_2DNgIhao) Monster: l,,,,
+[18:09:53]: [Say] (KU_MflE4_vZ) Ocean: =))
+[18:09:54]: [Say] (KU_MflE4_vZ) Ocean: tien vl
+[18:09:56]: [Say] (KU_MflE4_vZ) Ocean:  (Sanity: 19/120) These shadows pass right through my spear...
+[18:10:28]: [Say] (KU_MflE4_vZ) Ocean: d m quen me gay goi trang r
+[18:10:29]: [Say] (KU_MflE4_vZ) Ocean: tu2
+[18:10:41]: [Say] (KU_2DNgIhao) Monster: hmmm
+[18:10:58]: [Say] (KU_MflE4_vZ) Ocean: m dunbg o beequeen di
+[18:11:25]: [Say] (KU_2DNgIhao) Monster:  I have 153 twigs.
+[18:11:29]: [Say] (KU_2DNgIhao) Monster: clm =))
+[18:11:51]: [Say] (KU_2DNgIhao) Monster: t nhat may cai twig roi duoi dat
+[18:11:54]: [Say] (KU_MflE4_vZ) Ocean: u`
+[18:11:55]: [Say] (KU_MflE4_vZ) Ocean: =))
+[18:11:57]: [Say] (KU_2DNgIhao) Monster: 1 stack 40 cai
+[18:11:59]: [Say] (KU_MflE4_vZ) Ocean: qua day
+[18:11:59]: [Say] (KU_2DNgIhao) Monster: =))
+[18:11:59]: [Say] (KU_MflE4_vZ) Ocean: d m
+[18:12:17]: [Say] (KU_MflE4_vZ) Ocean: dua t 1 stack twig
+[18:12:44]: [Say] (KU_2DNgIhao) Monster:  I have 4 beekeeper hats, and this one has 19% durability.
+[18:12:45]: [Say] (KU_2DNgIhao) Monster:  I have 4 beekeeper hats, and this one has 46% durability.
+[18:12:48]: [Say] (KU_2DNgIhao) Monster:  I have 4 beekeeper hats, and this one has 59% durability.
+[18:13:56]: [Say] (KU_MflE4_vZ) Ocean: hammer no
+[18:14:01]: [Say] (KU_2DNgIhao) Monster:  I have a hammer with 68% durability.
+[18:20:50]: [Say] (KU_MflE4_vZ) Ocean: tat may ban tuyet ho t
+[18:25:49]: [Say] (KU_MflE4_vZ) Ocean: m lam cc gi o day the
+[18:25:50]: [Say] (KU_MflE4_vZ) Ocean: =))
+[18:25:55]: [Say] (KU_2DNgIhao) Monster: giet ong =))
+[18:26:01]: [Say] (KU_MflE4_vZ) Ocean: ranh
+[18:26:12]: [Say] (KU_MflE4_vZ) Ocean:  We have 73 healing salves in this chest.
+[18:26:37]: [Say] (KU_MflE4_vZ) Ocean:  We have 36 jellybeans in this scaled chest.
+[18:26:39]: [Say] (KU_2DNgIhao) Monster: ? :))
+[18:26:39]: [Say] (KU_MflE4_vZ) Ocean: hmm
+[18:26:47]: [Say] (KU_2DNgIhao) Monster:  I have 6 honeycombs.
+[18:26:48]: [Say] (KU_MflE4_vZ) Ocean: bon nay` can keo thay do an` ak
+[18:26:48]: [Say] (KU_MflE4_vZ) Ocean: =))
+[18:26:51]: [Say] (KU_2DNgIhao) Monster:  I have 8 honeycombs.
+[18:27:58]: [Say] (KU_2DNgIhao) Monster:  We have 14 thulecite fragments in this scaled chest.
+[18:28:33]: [Say] (KU_MflE4_vZ) Ocean: hmmmm
+[18:29:18]: [Say] (KU_MflE4_vZ) Ocean: lam sao de chuyen dia diem cua cai tele nay nhi
+[18:29:25]: [Say] (KU_MflE4_vZ) Ocean: chu xay 1 cai d tele dc den cai kia ak
+[18:29:26]: [Say] (KU_2DNgIhao) Monster: dap no =))
+[18:29:27]: [Say] (KU_MflE4_vZ) Ocean: nhu cc
+[18:30:33]: [Say] (KU_2DNgIhao) Monster:  I have 40 thulecite fragments.
+[18:30:36]: [Say] (KU_2DNgIhao) Monster: ez =))
+[18:30:40]: [Say] (KU_MflE4_vZ) Ocean: nhu cac
+[18:30:45]: [Say] (KU_MflE4_vZ) Ocean: ra cong t co de san 3 gem tim
+[18:30:50]: [Say] (KU_MflE4_vZ) Ocean: nho' socket vao`
+[18:31:15]: [Say] (KU_2DNgIhao) Monster: r :V
+[18:31:19]: [Say] (KU_2DNgIhao) Monster: tele t ve di
+[18:31:41]: [Say] (KU_2DNgIhao) Monster: ? :D ?
+[18:31:52]: [Say] (KU_MflE4_vZ) Ocean: dang can' huong duong
+[18:31:55]: [Say] (KU_2DNgIhao) Monster:  I have a fleshy bulb.
+[18:31:58]: [Say] (KU_MflE4_vZ) Ocean: di choi ca tet h ms dc an huonbg duong :))
+[18:32:05]: [Say] (KU_2DNgIhao) Monster: =))
+[18:32:26]: [Say] (KU_MflE4_vZ) Ocean: m tele la ra cong day
+[18:32:48]: [Say] (KU_MflE4_vZ) Ocean: d cast len nguoi dd dc dau
+[18:32:51]: [Say] (KU_MflE4_vZ) Ocean: bo m biet r
+[18:32:53]: [Say] (KU_2DNgIhao) Monster: =))
+[18:32:53]: [Say] (KU_MflE4_vZ) Ocean: dit me m
+[18:34:35]: [Say] (KU_MflE4_vZ) Ocean: cac
+[18:34:36]: [Say] (KU_MflE4_vZ) Ocean: =))
+[18:34:58]: [Say] (KU_MflE4_vZ) Ocean: mat cong ngoi che'
+[18:35:00]: [Say] (KU_MflE4_vZ) Ocean: tuong thuoc no
+[18:35:01]: [Say] (KU_MflE4_vZ) Ocean: d m
+[18:35:01]: [Say] (KU_2DNgIhao) Monster: ngon lua tren cao nguyen =-))
+[18:35:21]: [Say] (KU_2DNgIhao) Monster: a` co thuoc bien cay thong thanh cay ma
+[18:35:38]: [Say] (KU_MflE4_vZ) Ocean:  I need 1 more batilisk wing to make an arboretum experiment.
+[18:35:40]: [Say] (KU_MflE4_vZ) Ocean:  I have enough living logs to make 3 arboretum experiments.
+[18:36:01]: [Say] (KU_2DNgIhao) Monster:  We need more phobic experiment.
+[18:36:02]: [Say] (KU_MflE4_vZ) Ocean:  I need 1 more mosquito to make a sanguine experiment.
+[18:36:04]: [Say] (KU_MflE4_vZ) Ocean: :))
+[18:36:07]: [Say] (KU_MflE4_vZ) Ocean: di bat muoi~
+[18:36:20]: [Say] (KU_2DNgIhao) Monster: xa vl =))
+[18:37:22]: [Say] (KU_2DNgIhao) Monster:  We need more sanguine experiment.
+[18:37:28]: [Say] (KU_2DNgIhao) Monster: cai nay la tang mau' ma
+[18:37:35]: [Say] (KU_MflE4_vZ) Ocean: o`
+[18:37:36]: [Say] (KU_MflE4_vZ) Ocean: =))
+[18:38:35]: [Say] (KU_MflE4_vZ) Ocean:  I have a mosquito.
+[18:38:51]: [Say] (KU_MflE4_vZ) Ocean:  I have 2 mosquitos.
+[18:38:56]: [Say] (KU_2DNgIhao) Monster: =))
+[18:41:30]: [Say] (KU_2DNgIhao) Monster: gio lam j :v
+[18:41:40]: [Say] (KU_MflE4_vZ) Ocean: xay nha gaming
+[18:48:37]: [Skin Announcement] Ocean mysterybox_nature_4
+[18:49:27]: [Say] (KU_MflE4_vZ) Ocean: lozzzzzzzzzzzzzzzzz me lai an nham empty backpack
+[18:49:28]: [Say] (KU_MflE4_vZ) Ocean: =))
+[18:49:36]: [Say] (KU_MflE4_vZ) Ocean: ra tat' mod luon
+[18:49:40]: [Vote Announcement] rollback passed
+[18:49:40]: [Say] (KU_2DNgIhao) Monster: ?
+[18:53:22]: [Say] (KU_MflE4_vZ) Ocean:  I have 6 flask of sanguine mixtures.
+[18:53:25]: [Say] (KU_MflE4_vZ) Ocean: hmm
+[18:53:26]: [Say] (KU_MflE4_vZ) Ocean: :))
+[18:53:33]: [Say] (KU_2DNgIhao) Monster: hmm =))
+[18:53:55]: [Say] (KU_MflE4_vZ) Ocean: test cai farm tho? xem sao nhe
+[18:58:03]: [Say] (KU_2DNgIhao) Monster: ghe =))
+[18:58:29]: [Say] (KU_MflE4_vZ) Ocean: dc 3 con krampus
+[18:58:30]: [Say] (KU_MflE4_vZ) Ocean: ??
+[18:59:35]: [Say] (KU_2DNgIhao) Monster: ua?
+[18:59:42]: [Say] (KU_2DNgIhao) Monster: co cai vot k
+[18:59:56]: [Say] (KU_MflE4_vZ) Ocean: ra day
+[19:00:24]: [Say] (KU_MflE4_vZ) Ocean: hmm :v
+[19:00:32]: [Say] (KU_MflE4_vZ) Ocean: m co cam gem tim di k day
+[19:00:33]: [Say] (KU_MflE4_vZ) Ocean: d m
+[19:00:34]: [Say] (KU_2DNgIhao) Monster:  I have 10 purple gems.
+[19:00:37]: [Say] (KU_2DNgIhao) Monster: :V
+[19:01:32]: [Say] (KU_2DNgIhao) Monster: e
+[19:01:35]: [Say] (KU_2DNgIhao) Monster:  I have 5 killer bees.
+[19:01:41]: [Say] (KU_2DNgIhao) Monster: con nay co xay nha ong dc k
+[19:01:52]: [Say] (KU_MflE4_vZ) Ocean: k
+[19:07:23]: [Say] (KU_MflE4_vZ) Ocean: xay con cac gi day
+[19:07:42]: [Say] (KU_2DNgIhao) Monster: ai biet =))
+[19:07:45]: [Say] (KU_2DNgIhao) Monster: nha cua ong do
+[19:08:40]: [Say] (KU_MflE4_vZ) Ocean: nghi chua
+[19:08:45]: [Say] (KU_2DNgIhao) Monster: sap
+[19:08:47]: [Say] (KU_MflE4_vZ) Ocean: o`
+[19:08:55]: [Say] (KU_MflE4_vZ) Ocean: =))
+[19:08:59]: [Say] (KU_MflE4_vZ) Ocean: ngu lam
+[19:09:09]: [Say] (KU_MflE4_vZ) Ocean:  We have 75 carrots in this ice box.
+[19:09:11]: [Say] (KU_MflE4_vZ) Ocean:  We have 115 carrots in this ice box.
+[19:09:13]: [Say] (KU_MflE4_vZ) Ocean: hmmm
+[19:09:33]: [Say] (KU_2DNgIhao) Monster: hop ly :v
+[19:09:38]: [Say] (KU_MflE4_vZ) Ocean: cax
+[19:09:39]: [Say] (KU_MflE4_vZ) Ocean: =))
+[19:09:44]: [Say] (KU_MflE4_vZ) Ocean: dang nhe m nen de t keo m ve`
+[19:09:45]: [Say] (KU_MflE4_vZ) Ocean: =))
+[19:09:50]: [Say] (KU_2DNgIhao) Monster: =)))
+[19:10:02]: [Say] (KU_MflE4_vZ) Ocean: h m dinh ra cong = cdg
+[19:10:03]: [Say] (KU_MflE4_vZ) Ocean: =))
+[19:10:12]: [Say] (KU_2DNgIhao) Monster: tang gan socket r ma
+[19:10:16]: [Say] (KU_2DNgIhao) Monster: :v :v
+[19:10:25]: [Say] (KU_MflE4_vZ) Ocean: m gan r sao m ve day dc
+[19:10:36]: [Say] (KU_2DNgIhao) Monster: dung o giua cai do bien ve
+[19:10:38]: [Say] (KU_2DNgIhao) Monster: =))
+[19:12:08]: [Say] (KU_MflE4_vZ) Ocean: t nghi m an carrot cx du song qua ngay r mont
+[19:12:12]: [Say] (KU_MflE4_vZ) Ocean:  We have 103 carrots in this ice box.
+[19:12:17]: [Say] (KU_2DNgIhao) Monster: vcc =))
+[19:12:56]: [Say] (KU_MflE4_vZ) Ocean:  I have 24 dragonpies.
+[19:13:00]: [Say] (KU_MflE4_vZ) Ocean: d biet cam lam lz gi
+[19:13:01]: [Say] (KU_2DNgIhao) Monster: ra ngay cong trinh bat ta it buom voi
+[19:13:03]: [Say] (KU_2DNgIhao) Monster: :v
+[19:13:27]: [Say] (KU_MflE4_vZ) Ocean:  I have 24 dragonpies.
+[19:14:45]: [Say] (KU_MflE4_vZ) Ocean:  We have 16 honey hams in this bundled supplies.
+[19:14:46]: [Say] (KU_MflE4_vZ) Ocean:  We have 6 meatballs in this bundled supplies.
+[19:14:47]: [Say] (KU_MflE4_vZ) Ocean:  We have 24 pierogis in this bundled supplies.
+[19:14:49]: [Say] (KU_MflE4_vZ) Ocean:  We have 5 bacon and eggs in this bundled supplies.
+[19:16:01]: [Say] (KU_2DNgIhao) Monster:  I have 7 butterflys.
+[19:16:03]: [Say] (KU_2DNgIhao) Monster: =))
+[19:16:10]: [Say] (KU_MflE4_vZ) Ocean:  I have 5 butterflys.
+[19:18:02]: [Say] (KU_MflE4_vZ) Ocean:  I have 10 butterflys.
+[19:18:38]: [Say] (KU_2DNgIhao) Monster: =)) nhin trong ngu vl =))
+[19:19:54]: [Say] (KU_2DNgIhao) Monster: may cai nha kia de lam j nhi
+[19:22:43]: [Say] (KU_2DNgIhao) Monster: sang r ma k co ong kia =))
+[19:22:49]: [Say] (KU_MflE4_vZ) Ocean: winter
+[19:22:50]: [Say] (KU_MflE4_vZ) Ocean: ngu vl
+[19:22:52]: [Say] (KU_2DNgIhao) Monster: loi game cmnr :v
+[19:22:58]: [Say] (KU_MflE4_vZ) Ocean: va` cai nha` kia torng hamlet
+[19:23:02]: [Say] (KU_MflE4_vZ) Ocean: nen de cho vui thoi
+[19:23:12]: [Say] (KU_2DNgIhao) Monster: lel ==))
+[19:23:24]: [Say] (KU_2DNgIhao) Monster: di ngu day
+[19:23:29]: [Say] (KU_MflE4_vZ) Ocean: ok
+[19:23:30]: [Say] (KU_2DNgIhao) Monster: dm 2 h sang cmnr
+[19:23:34]: [Say] (KU_MflE4_vZ) Ocean: dmm
+[19:23:34]: [Say] (KU_MflE4_vZ) Ocean: =))
+[19:23:37]: [Leave Announcement] Ocean
+[19:23:39]: [Leave Announcement] Monster
+[22:19:30]: [Join Announcement] Bo
+[22:26:08]: [Death Announcement] Bo was killed by Guard Pig. He became a spooky ghost!
+[22:26:16]: [Resurrect Announcement] Bo was resurrected by Shenanigans.
+[22:29:08]: [Join Announcement] Ocean
+[22:29:16]: [Say] (KU_iC59_xkK) Bo: trang tron
+[22:29:18]: [Say] (KU_iC59_xkK) Bo: di dap lon
+[22:29:23]: [Say] (KU_MflE4_vZ) Ocean: so
+[22:29:25]: [Say] (KU_MflE4_vZ) Ocean: :))
+[22:29:25]: [Say] (KU_iC59_xkK) Bo: minh t dap khong xue
+[22:29:35]: [Say] (KU_MflE4_vZ) Ocean: the ma minh t dap het dc
+[22:29:46]: [Say] (KU_MflE4_vZ) Ocean: trang tron mua thu con ngan' nua co
+[22:29:51]: [Say] (KU_MflE4_vZ) Ocean: t ban di def moonbase r
+[22:29:54]: [Say] (KU_MflE4_vZ) Ocean: lon ke me no
+[22:33:31]: [Death Announcement] Bo was killed by Pig Man. He became a spooky ghost!
+[22:34:28]: [Say] (KU_MflE4_vZ) Ocean: sao chet the
+[22:34:28]: [Say] (KU_MflE4_vZ) Ocean: =))
+[22:35:51]: [Resurrect Announcement] Bo was resurrected by Life Giving Amulet.
+[22:38:57]: [Say] (KU_MflE4_vZ) Ocean: meo dau bo` :v
+[22:39:25]: [Say] (KU_MflE4_vZ) Ocean:  We have 23 moon rocks in this chest.
+[22:39:27]: [Say] (KU_MflE4_vZ) Ocean:  We have 53 silks in this chest.
+[22:42:59]: [Say] (KU_MflE4_vZ) Ocean: hmmm
+[22:43:03]: [Say] (KU_iC59_xkK) Bo: ?
+[22:43:04]: [Say] (KU_MflE4_vZ) Ocean: sao rao` lai bi pha nhi
+[22:43:14]: [Say] (KU_iC59_xkK) Bo: lon so'i dau
+[22:43:18]: [Say] (KU_iC59_xkK) Bo: lon soi day
+[22:44:25]: [Say] (KU_iC59_xkK) Bo: cho'
+[22:44:47]: [Say] (KU_MflE4_vZ) Ocean:  I have 32 red gems.
+[22:52:09]: [Say] (KU_MflE4_vZ) Ocean: oanh klaus k bo`
+[22:52:15]: [Say] (KU_iC59_xkK) Bo: doi ti
+[22:52:29]: [Say] (KU_MflE4_vZ) Ocean: cx dc t di doi vang`
+[22:53:28]: [Death Announcement] Bo was killed by Pig Man. He became a spooky ghost!
+[22:53:40]: [Resurrect Announcement] Bo was resurrected by Shenanigans.
+[22:53:49]: [Say] (KU_MflE4_vZ) Ocean: lam gi day
+[22:53:49]: [Say] (KU_MflE4_vZ) Ocean: =))
+[22:54:05]: [Say] (KU_iC59_xkK) Bo: treu cho' :v
+[22:55:23]: [Say] (KU_MflE4_vZ) Ocean: di tim klaus sack di
+[22:55:48]: [Say] (KU_iC59_xkK) Bo: di
+[22:56:07]: [Say] (KU_MflE4_vZ) Ocean: tim o pigkingturoc di
+[22:56:25]: [Say] (KU_iC59_xkK) Bo: tim cai gi co?
+[22:56:42]: [Say] (KU_MflE4_vZ) Ocean: tui mau` trang' co o? khoa'
+[22:56:47]: [Say] (KU_MflE4_vZ) Ocean: goi la klaus sack
+[22:56:51]: [Say] (KU_iC59_xkK) Bo: i know
+[22:57:10]: [Say] (KU_iC59_xkK) Bo: cai tui day cha co do gi ngon
+[22:57:44]: [Say] (KU_MflE4_vZ) Ocean: co % ra do ngon ma
+[22:58:07]: [Say] (KU_MflE4_vZ) Ocean: dung
+[22:58:11]: [Say] (KU_MflE4_vZ) Ocean: dung` kieu day
+[22:58:12]: [Say] (KU_MflE4_vZ) Ocean: farm
+[22:58:15]: [Say] (KU_MflE4_vZ) Ocean: chac chac
+[22:58:18]: [Say] (KU_MflE4_vZ) Ocean: chay he t cuoi`
+[22:58:38]: [Say] (KU_iC59_xkK) Bo: =))
+[23:00:40]: [Say] (KU_iC59_xkK) Bo: bearger nay
+[23:00:44]: [Say] (KU_MflE4_vZ) Ocean: vc
+[23:00:46]: [Say] (KU_MflE4_vZ) Ocean: de day di
+[23:00:47]: [Say] (KU_MflE4_vZ) Ocean: =))
+[23:02:40]: [Say] (KU_iC59_xkK) Bo: hmm
+[23:04:25]: [Say] (KU_iC59_xkK) Bo: tele len day
+[23:04:31]: [Say] (KU_MflE4_vZ) Ocean: dang ban
+[23:09:58]: [Say] (KU_MflE4_vZ) Ocean:  We have 91 carrots in this ice box.
+[23:10:01]: [Say] (KU_MflE4_vZ) Ocean: an de
+[23:10:02]: [Say] (KU_MflE4_vZ) Ocean: =))
+[23:10:36]: [Say] (KU_MflE4_vZ) Ocean: nau len an hoi 3 mau
+[23:10:51]: [Say] (KU_iC59_xkK) Bo: t can hunger thoi =))
+[23:11:42]: [Say] (KU_MflE4_vZ) Ocean: gay di bo dau
+[23:11:46]: [Say] (KU_iC59_xkK) Bo:  I have a walking cane.
+[23:12:27]: [Say] (KU_iC59_xkK) Bo: hai thang dap duoc klaus khong
+[23:12:40]: [Say] (KU_MflE4_vZ) Ocean: cho ty nau 20 cuc meatball da
+[23:12:40]: [Say] (KU_MflE4_vZ) Ocean: =))
+[23:14:55]: [Say] (KU_MflE4_vZ) Ocean:  I have 19 meatballs.
+[23:15:07]: [Say] (KU_MflE4_vZ) Ocean:  We have 25 meatballs in this bundled supplies.
+[23:15:30]: [Say] (KU_MflE4_vZ) Ocean: co vk chua
+[23:16:02]: [Say] (KU_MflE4_vZ) Ocean: vai loz xa :v :v
+[23:16:10]: [Say] (KU_iC59_xkK) Bo: tele len
+[23:16:31]: [Say] (KU_iC59_xkK) Bo: how to choi
+[23:16:33]: [Say] (KU_MflE4_vZ) Ocean: beo'
+[23:16:35]: [Say] (KU_MflE4_vZ) Ocean: len
+[23:16:35]: [Say] (KU_iC59_xkK) Bo: can voice chay khong?
+[23:16:38]: [Say] (KU_MflE4_vZ) Ocean: k
+[23:16:40]: [Say] (KU_MflE4_vZ) Ocean: :)))
+[23:16:43]: [Say] (KU_MflE4_vZ) Ocean: cu ne' thoi
+[23:16:45]: [Say] (KU_MflE4_vZ) Ocean: co giap chua day
+[23:17:25]: [Say] (KU_iC59_xkK) Bo: dao gi truoc
+[23:18:17]: [Death Announcement] Bo was killed by Klaus. He became a spooky ghost!
+[23:18:26]: [Say] (KU_MflE4_vZ) Ocean: =))
+[23:18:30]: [Resurrect Announcement] Bo was resurrected by Shenanigans.
+[23:19:49]: [Say] (KU_MflE4_vZ) Ocean: mu giap
+[23:19:50]: [Say] (KU_MflE4_vZ) Ocean: t lam
+[23:19:52]: [Say] (KU_MflE4_vZ) Ocean: k doi vao
+[23:19:53]: [Say] (KU_MflE4_vZ) Ocean: dm
+[23:21:12]: [Say] (KU_MflE4_vZ) Ocean: hmm
+[23:21:18]: [Say] (KU_MflE4_vZ) Ocean: game la de
+[23:21:47]: [Say] (KU_iC59_xkK) Bo: sao k co de gi ngon vay
+[23:21:57]: [Say] (KU_iC59_xkK) Bo: ...do` ngon....
+[23:22:31]: [Say] (KU_MflE4_vZ) Ocean: da mo tui ra dau
+[23:22:34]: [Say] (KU_MflE4_vZ) Ocean: ma doi co do ngon
+[23:22:36]: [Say] (KU_MflE4_vZ) Ocean: =))
+[23:22:39]: [Say] (KU_MflE4_vZ) Ocean: cai sung` to dung dau
+[23:23:33]: [Say] (KU_MflE4_vZ) Ocean:  I have a glowcap blueprint.
+[23:23:38]: [Say] (KU_MflE4_vZ) Ocean:  I need 1 more shroom skin to make a glowcap.
+[23:23:40]: [Say] (KU_MflE4_vZ) Ocean: :v
+[23:23:58]: [Say] (KU_iC59_xkK) Bo: cho co cai gi
+[23:24:02]: [Say] (KU_iC59_xkK) Bo: cha co cai gi
+[23:24:20]: [Say] (KU_MflE4_vZ) Ocean: dc 4 cai wax paper
+[23:24:21]: [Say] (KU_MflE4_vZ) Ocean: :v
+[23:25:27]: [Say] (KU_MflE4_vZ) Ocean: t lam mu~ giap'
+[23:25:29]: [Say] (KU_MflE4_vZ) Ocean: sao k doi.
+[23:25:36]: [Say] (KU_iC59_xkK) Bo:  (Health: 226/226) Wolfgang not need fixing!
+[23:25:47]: [Say] (KU_MflE4_vZ) Ocean: 1 tyh? cai battle helm
+[23:25:53]: [Say] (KU_MflE4_vZ) Ocean: danh nhau thi mac vo
+[23:25:53]: [Say] (KU_MflE4_vZ) Ocean: :))
+[23:26:01]: [Say] (KU_MflE4_vZ) Ocean: ak qua xem farm tho? nay
+[23:26:10]: [Say] (KU_MflE4_vZ) Ocean: dung ngoai nhin dung cam thit day
+[23:26:24]: [Say] (KU_iC59_xkK) Bo: co gi hot???
+[23:28:15]: [Say] (KU_MflE4_vZ) Ocean: ra fang krampus di kia
+[23:30:12]: [Say] (KU_MflE4_vZ) Ocean: ez krampus
+[23:30:13]: [Say] (KU_MflE4_vZ) Ocean: :))
+[23:31:14]: [Say] (KU_iC59_xkK) Bo: cai nay de lam cai gi
+[23:31:20]: [Say] (KU_MflE4_vZ) Ocean: tele
+[23:31:39]: [Say] (KU_iC59_xkK) Bo: hay
+[23:32:13]: [Say] (KU_MflE4_vZ) Ocean: cax
+[23:32:17]: [Say] (KU_iC59_xkK) Bo: qua hop ly =)))
+[23:32:17]: [Say] (KU_MflE4_vZ) Ocean: mat' 3 gem tim day
+[23:33:54]: [Say] (KU_iC59_xkK) Bo: t nghi day :v
+[23:33:59]: [Say] (KU_MflE4_vZ) Ocean: cu lua`
+[23:34:00]: [Say] (KU_MflE4_vZ) Ocean: =))
+[23:34:06]: [Say] (KU_iC59_xkK) Bo: lua gi
+[23:34:12]: [Say] (KU_MflE4_vZ) Ocean: ua nghi di
+[23:34:13]: [Say] (KU_MflE4_vZ) Ocean: :v
+[23:34:34]: [Join Announcement] ErikoM
+[23:34:58]: [Say] (KU_MflE4_vZ) Ocean: d m t van chua mo dc cai elegant nao`
+[23:34:59]: [Say] (KU_MflE4_vZ) Ocean: why
+[23:35:12]: [Say] (KU_A1Twu5LE) ErikoM: t cung the
+[23:35:18]: [Say] (KU_MflE4_vZ) Ocean: xao lon nay
+[23:35:18]: [Say] (KU_A1Twu5LE) ErikoM: lag wa
+[23:35:24]: [Say] (KU_MflE4_vZ) Ocean: xao loz tiep nay
+[23:35:32]: [Say] (KU_MflE4_vZ) Ocean: =))
+[23:35:35]: [Say] (KU_MflE4_vZ) Ocean: =)))))))))))
+[23:35:36]: [Say] (KU_MflE4_vZ) Ocean: tu2
+[23:35:41]: [Say] (KU_MflE4_vZ) Ocean: chay lai t xem
+[23:35:46]: [Say] (KU_A1Twu5LE) ErikoM: lag wa
+[23:36:12]: [Say] (KU_MflE4_vZ) Ocean: =))))))))))))))))))))
+[23:36:29]: [Say] (KU_A1Twu5LE) ErikoM: =)))
+[23:37:26]: [Say] (KU_MflE4_vZ) Ocean: rang ham m kiem mod gi vui
+[23:37:30]: [Say] (KU_MflE4_vZ) Ocean: mai add vao sv ms
+[23:37:32]: [Say] (KU_MflE4_vZ) Ocean: =))
+[23:37:42]: [Say] (KU_A1Twu5LE) ErikoM: how to addd
+[23:37:47]: [Say] (KU_MflE4_vZ) Ocean: thi cu neu ten
+[23:37:50]: [Say] (KU_MflE4_vZ) Ocean: ae thay dc
+[23:37:52]: [Say] (KU_MflE4_vZ) Ocean: thi them
+[23:38:02]: [Say] (KU_A1Twu5LE) ErikoM: okie
+[23:38:50]: [Say] (KU_iC59_xkK) Bo:  I have 2 carrots.
+[23:38:51]: [Say] (KU_iC59_xkK) Bo:  I have a carrot.
+[23:38:57]: [Say] (KU_MflE4_vZ) Ocean: ....
+[23:39:55]: [Leave Announcement] Bo
+[23:40:07]: [Say] (KU_MflE4_vZ) Ocean: oanh coc 99k k rang yham`
+[23:40:08]: [Say] (KU_MflE4_vZ) Ocean: =))
+[23:40:20]: [Say] (KU_A1Twu5LE) ErikoM: maybe
+[23:40:31]: [Say] (KU_A1Twu5LE) ErikoM: ma mang nha lag wa
+[23:40:36]: [Say] (KU_MflE4_vZ) Ocean: lag thi lo gi
+[23:40:38]: [Say] (KU_MflE4_vZ) Ocean: :))
+[23:40:57]: [Say] (KU_MflE4_vZ) Ocean: mau nhieu giap nhieu ngai gi vet ban
+[23:40:58]: [Say] (KU_MflE4_vZ) Ocean: =))
+[23:41:02]: [Say] (KU_A1Twu5LE) ErikoM: =))
+[23:41:26]: [Skin Announcement] ErikoM body_tweedvest_green_hunters
+[23:41:30]: [Say] (KU_MflE4_vZ) Ocean: :v
+[23:41:33]: [Say] (KU_A1Twu5LE) ErikoM: =))
+[23:41:37]: [Say] (KU_MflE4_vZ) Ocean:  I have 7 spiderhats, and this one has 100% durability.
+[23:41:44]: [Say] (KU_MflE4_vZ) Ocean:  I have 8 spiderhats, and this one has 100% durability.
+[23:42:45]: [Say] (KU_MflE4_vZ) Ocean: cai tele focus kia
+[23:42:50]: [Say] (KU_MflE4_vZ) Ocean: dung ` chuoi' vl
+[23:42:51]: [Say] (KU_MflE4_vZ) Ocean: =))
+[23:42:58]: [Say] (KU_A1Twu5LE) ErikoM: =))
+[23:43:07]: [Say] (KU_MflE4_vZ) Ocean: nhin nay`
+[23:43:20]: [Say] (KU_MflE4_vZ) Ocean: =)))
+[23:43:30]: [Say] (KU_A1Twu5LE) ErikoM: =))
+[23:44:15]: [Say] (KU_A1Twu5LE) ErikoM: hí hí
+[23:44:21]: [Say] (KU_A1Twu5LE) ErikoM: mai lên trường
+[23:44:33]: [Say] (KU_MflE4_vZ) Ocean: t thu 3 ms len
+[23:44:34]: [Say] (KU_MflE4_vZ) Ocean: :v
+[23:44:36]: [Say] (KU_MflE4_vZ) Ocean: det
+[23:44:38]: [Say] (KU_A1Twu5LE) ErikoM: t6 tuần sau t thi rồi
+[23:44:43]: [Say] (KU_MflE4_vZ) Ocean: runn
+[23:44:59]: [Say] (KU_MflE4_vZ) Ocean: hmnm
+[23:45:02]: [Say] (KU_A1Twu5LE) ErikoM: t ko bật tiếng
+[23:45:03]: [Say] (KU_MflE4_vZ) Ocean: t vua lam sai dieu gi do
+[23:45:27]: [Say] (KU_MflE4_vZ) Ocean: aso thanh mau m to the nhi
+[23:45:28]: [Say] (KU_MflE4_vZ) Ocean: =))
+[23:45:33]: [Say] (KU_A1Twu5LE) ErikoM: ko biet
+[23:45:50]: [Say] (KU_MflE4_vZ) Ocean: dit
+[23:45:52]: [Say] (KU_MflE4_vZ) Ocean: biet ngay
+[23:45:56]: [Say] (KU_MflE4_vZ) Ocean: chay' con me no 1 cai noi`
+[23:45:59]: [Say] (KU_MflE4_vZ) Ocean: d m boo`
+[23:46:10]: [Say] (KU_A1Twu5LE) ErikoM: =)))
+[23:46:12]: [Death Announcement] Ocean was killed by Shenanigans. She became a spooky ghost!
+[23:46:27]: [Resurrect Announcement] Ocean was resurrected by Shenanigans.
+[23:46:28]: [Say] (KU_A1Twu5LE) ErikoM: =)))
+[23:46:36]: [Say] (KU_A1Twu5LE) ErikoM: vcl
+[23:47:05]: [Say] (KU_A1Twu5LE) ErikoM: t out đây
+[23:47:09]: [Say] (KU_MflE4_vZ) Ocean: d m
+[23:47:10]: [Say] (KU_MflE4_vZ) Ocean: =))
+[23:47:14]: [Say] (KU_MflE4_vZ) Ocean: bat t solo coc ghe? ak
+[23:47:28]: [Say] (KU_A1Twu5LE) ErikoM: cũng đc
+[23:47:42]: [Say] (KU_A1Twu5LE) ErikoM: đánh cóc xong
+[23:47:45]: [Say] (KU_A1Twu5LE) ErikoM: ỷ out
+[23:47:53]: [Say] (KU_MflE4_vZ) Ocean: ok
+[23:47:53]: [Say] (KU_A1Twu5LE) ErikoM: t out
+[23:48:01]: [Say] (KU_MflE4_vZ) Ocean: gogo
+[23:48:17]: [Say] (KU_MflE4_vZ) Ocean: e quen do hoi mnau
+[23:48:18]: [Say] (KU_MflE4_vZ) Ocean: =))
+[23:48:29]: [Say] (KU_MflE4_vZ) Ocean:  I have 30 healing salves.
+[23:48:38]: [Say] (KU_MflE4_vZ) Ocean: the thoi
+[23:52:01]: [Say] (KU_A1Twu5LE) ErikoM: gio moi xuong dc
+[23:52:14]: [Say] (KU_A1Twu5LE) ErikoM: vcl
+[23:52:54]: [Say] (KU_A1Twu5LE) ErikoM: mang nha chuoi wa
+[23:56:01]: [Say] (KU_A1Twu5LE) ErikoM: lag wwa
+[23:56:42]: [Say] (KU_A1Twu5LE) ErikoM: t ko tu dieu khien dc
+[23:57:45]: [Say] (KU_A1Twu5LE) ErikoM: nan qua
+[23:59:07]: [Say] (KU_A1Twu5LE) ErikoM: t chiu, mai len hp con choi dc chu gio gg
+[23:59:14]: [Say] (KU_MflE4_vZ) Ocean: :v
+[23:59:14]: [Say] (KU_A1Twu5LE) ErikoM: chat cung bi delay 30s
+[23:59:29]: [Say] (KU_A1Twu5LE) ErikoM: out day
+[23:59:34]: [Say] (KU_MflE4_vZ) Ocean: ok
+[23:59:42]: [Say] (KU_MflE4_vZ) Ocean: chup anh adng group chat
+[23:59:44]: [Leave Announcement] ErikoM
+[23:59:44]: [Say] (KU_MflE4_vZ) Ocean: =)) t solo
+[23:59:45]: [Say] (KU_MflE4_vZ) Ocean: =))
+[00:31:41]: [Leave Announcement] Ocean
+[17:25:31]: [Join Announcement] Bo
+[17:26:39]: [Mod Warning] G10MM-3R is out of date and needs to be updated for new users to be able to join the server.
+[17:28:04]: [Mod Warning] G10MM-3R is out of date and needs to be updated for new users to be able to join the server.
+[17:30:04]: [Mod Warning] G10MM-3R is out of date and needs to be updated for new users to be able to join the server.
+[17:30:31]: [Join Announcement] Ocean
+[17:31:07]: [Say] (KU_iC59_xkK) Bo: cave a nguoi ae
+[17:31:12]: [Say] (KU_MflE4_vZ) Ocean: dung vay
+[17:31:15]: [Say] (KU_MflE4_vZ) Ocean: danh coc xong nghi luon ma
+[17:31:16]: [Say] (KU_MflE4_vZ) Ocean: :))
+[17:31:22]: [Say] (KU_MflE4_vZ) Ocean: dang goi 2 tml kia vao
+[17:31:27]: [Say] (KU_MflE4_vZ) Ocean: chung no dang auto chess
+[17:31:34]: [Say] (KU_iC59_xkK) Bo: minh m solo coc luon
+[17:31:40]: [Say] (KU_MflE4_vZ) Ocean: de~ ma`
+[17:31:41]: [Say] (KU_MflE4_vZ) Ocean: =))
+[17:31:43]: [Say] (KU_MflE4_vZ) Ocean: ton time
+[17:32:04]: [Mod Warning] G10MM-3R is out of date and needs to be updated for new users to be able to join the server.
+[17:34:04]: [Mod Warning] G10MM-3R is out of date and needs to be updated for new users to be able to join the server.
+[17:36:04]: [Mod Warning] G10MM-3R is out of date and needs to be updated for new users to be able to join the server.
+[17:38:05]: [Mod Warning] G10MM-3R is out of date and needs to be updated for new users to be able to join the server.
+[17:38:45]: [Say] (KU_MflE4_vZ) Ocean: vo discord
+[17:40:04]: [Mod Warning] G10MM-3R is out of date and needs to be updated for new users to be able to join the server.
+[17:42:04]: [Mod Warning] G10MM-3R is out of date and needs to be updated for new users to be able to join the server.
+[17:42:27]: [Say] (KU_iC59_xkK) Bo:  (Health: 200/200) Wolfgang not need fixing!
+[17:42:33]: [Say] (KU_MflE4_vZ) Ocean:  I need 1 more shroom skin to make a napsack.
+[17:42:36]: [Say] (KU_MflE4_vZ) Ocean:  I need 1 more canary (volatile) to make a napsack.
+[17:44:04]: [Mod Warning] G10MM-3R is out of date and needs to be updated for new users to be able to join the server.
+[17:45:58]: [Say] (KU_MflE4_vZ) Ocean:  I have 2 meaty stews.
+[17:46:04]: [Mod Warning] G10MM-3R is out of date and needs to be updated for new users to be able to join the server.
+[17:48:04]: [Mod Warning] G10MM-3R is out of date and needs to be updated for new users to be able to join the server.
+[17:50:04]: [Mod Warning] G10MM-3R is out of date and needs to be updated for new users to be able to join the server.
+[17:52:04]: [Mod Warning] G10MM-3R is out of date and needs to be updated for new users to be able to join the server.
+[17:53:05]: [Join Announcement] Monster
+[17:53:13]: [Death Announcement] Monster was killed by Bunnyman. They became a spooky ghost!
+[17:53:36]: [Resurrect Announcement] Monster was resurrected by Life Giving Amulet.
+[17:54:05]: [Mod Warning] G10MM-3R is out of date and needs to be updated for new users to be able to join the server.
+[17:56:04]: [Mod Warning] G10MM-3R is out of date and needs to be updated for new users to be able to join the server.
+[17:58:04]: [Mod Warning] G10MM-3R is out of date and needs to be updated for new users to be able to join the server.
+[18:00:04]: [Mod Warning] G10MM-3R is out of date and needs to be updated for new users to be able to join the server.
+[18:00:59]: [Say] (KU_2DNgIhao) Monster:  We have 3 cooked meats in this ice box.
+[18:01:38]: [Say] (KU_2DNgIhao) Monster:  We have 2 meaty stews in this ice box.
+[18:01:48]: [Say] (KU_2DNgIhao) Monster:  (Hunger: 194/200) FUEL STATUS: MAXIMUM CAPACITY
+[18:02:05]: [Mod Warning] G10MM-3R is out of date and needs to be updated for new users to be able to join the server.
+[18:03:11]: [Say] (KU_2DNgIhao) Monster:  We have 2 meaty stews in this ice box.
+[18:03:35]: [Say] (KU_2DNgIhao) Monster:  We have 2 meaty stews in this ice box.
+[18:04:04]: [Mod Warning] G10MM-3R is out of date and needs to be updated for new users to be able to join the server.
+[18:04:37]: [Say] (KU_MflE4_vZ) Ocean:  I have 32 meatballs.
+[18:06:04]: [Mod Warning] G10MM-3R is out of date and needs to be updated for new users to be able to join the server.
+[18:06:46]: [Join Announcement] M0wX
+[18:08:04]: [Mod Warning] G10MM-3R is out of date and needs to be updated for new users to be able to join the server.
+[18:08:31]: [Say] (KU_MflE4_vZ) Ocean:  I have a ham bat.
+[18:09:21]: [Skin Announcement] Ocean mysterybox_nature_4
+[18:10:04]: [Mod Warning] G10MM-3R is out of date and needs to be updated for new users to be able to join the server.
+[18:10:40]: [Say] (KU_iC59_xkK) Bo:  (Sanity: 32/200) Wolfgang see scary monster...
+[18:11:27]: [Say] (KU_2DNgIhao) Monster:  I have a desert stone.
+[18:12:04]: [Mod Warning] G10MM-3R is out of date and needs to be updated for new users to be able to join the server.
+[18:14:05]: [Mod Warning] G10MM-3R is out of date and needs to be updated for new users to be able to join the server.
+[18:15:39]: [Say] (KU_MflE4_vZ) Ocean:  (Hunger: 0/120) I'll starve without some meat!
+[18:16:05]: [Mod Warning] G10MM-3R is out of date and needs to be updated for new users to be able to join the server.
+[18:18:04]: [Mod Warning] G10MM-3R is out of date and needs to be updated for new users to be able to join the server.
+[18:18:48]: [Say] (KU_2DNgIhao) Monster:  I have 5 sulfuric crystals of saltpeters.
+[18:19:19]: [Skin Announcement] M0wX mysterybox_nature_4
+[18:20:04]: [Mod Warning] G10MM-3R is out of date and needs to be updated for new users to be able to join the server.
+[18:21:49]: [Say] (KU_2DNgIhao) Monster: =
+[18:21:54]: [Say] (KU_2DNgIhao) Monster: =)) hop ly
+[18:22:04]: [Mod Warning] G10MM-3R is out of date and needs to be updated for new users to be able to join the server.
+[18:22:52]: [Say] (KU_2DNgIhao) Monster: =))
+[18:23:07]: [Say] (KU_2DNgIhao) Monster: bo vu khi xuong =))

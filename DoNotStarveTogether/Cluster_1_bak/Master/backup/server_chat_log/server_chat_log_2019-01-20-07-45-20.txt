@@ -1,0 +1,19 @@
+[00:00:53]: [Join Announcement] Bo
+[00:03:54]: [Leave Announcement] Bo
+[00:04:49]: [Join Announcement] Bo
+[00:07:18]: [Join Announcement] NEYUGN
+[00:08:48]: [Say] (KU_UnXy3wBQ) NEYUGN: cha
+[00:12:10]: [Say] (KU_iC59_xkK) Bo: kiem cao oasis he` vao day chu'
+[00:12:15]: [Say] (KU_iC59_xkK) Bo: hay la xuong cave
+[00:12:27]: [Say] (KU_UnXy3wBQ) NEYUGN: xuong cave di
+[00:17:18]: [Death Announcement] Bo was killed by Beefalo. He became a spooky ghost!
+[00:17:29]: [Say] (KU_UnXy3wBQ) NEYUGN: can cuu ko
+[00:17:34]: [Say] (KU_iC59_xkK) Bo: roll hay cuu?
+[00:17:40]: [Say] (KU_iC59_xkK) Bo: cai nao cung duoc
+[00:17:50]: [Say] (KU_UnXy3wBQ) NEYUGN: cuu
+[00:19:01]: [Say] (KU_UnXy3wBQ) NEYUGN: ra day
+[00:19:09]: [Resurrect Announcement] Bo was resurrected by NEYUGN.
+[00:19:17]: [Say] (KU_UnXy3wBQ) NEYUGN: doi mu bo vao ma nhat do
+[00:19:21]: [Say] (KU_iC59_xkK) Bo: cuu nhw the la cuu ntn?
+[00:19:26]: [Say] (KU_iC59_xkK) Bo: dua mu day
+[00:19:30]: [Say] (KU_UnXy3wBQ) NEYUGN: 

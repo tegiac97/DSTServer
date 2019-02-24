@@ -1,0 +1,38 @@
+[00:46:29]: [Join Announcement] Bo
+[00:50:16]: [Join Announcement] NEYUGN
+[00:59:46]: [Say] (KU_UnXy3wBQ) NEYUGN: vui day
+[01:00:14]: [Say] (KU_iC59_xkK) Bo: no o tab nao day
+[01:00:25]: [Say] (KU_UnXy3wBQ) NEYUGN: fight
+[01:01:36]: [Death Announcement] NEYUGN was killed by Bo. She became a spooky ghost!
+[01:01:38]: [Say] (KU_UnXy3wBQ) NEYUGN: dm
+[01:01:41]: [Vote Announcement] rollback passed
+[01:01:46]: [Resurrect Announcement] NEYUGN was resurrected by Life Giving Amulet.
+[01:04:38]: [Say] (KU_iC59_xkK) Bo: bat godmode len
+[01:04:46]: [Say] (KU_UnXy3wBQ) NEYUGN: oke
+[01:05:11]: [Say] (KU_UnXy3wBQ) NEYUGN: m choi godmode a
+[01:05:17]: [Say] (KU_UnXy3wBQ) NEYUGN: mua he mac ao gau?
+[01:05:54]: [Say] (KU_UnXy3wBQ) NEYUGN: ping t do?
+[01:09:07]: [Say] (KU_iC59_xkK) Bo: cho'
+[01:09:31]: [Death Announcement] Bo was killed by Spider. He became a spooky ghost!
+[01:09:45]: [Resurrect Announcement] Bo was resurrected by Shenanigans.
+[01:09:50]: [Say] (KU_UnXy3wBQ) NEYUGN: ?
+[01:10:50]: [Say] (KU_UnXy3wBQ) NEYUGN: cai nay dao aoe
+[01:13:17]: [Say] (KU_UnXy3wBQ) NEYUGN: ao' mat nay
+[01:13:33]: [Say] (KU_UnXy3wBQ) NEYUGN: bo cai mu ra
+[01:13:37]: [Say] (KU_UnXy3wBQ) NEYUGN: chet nong
+[01:13:42]: [Say] (KU_iC59_xkK) Bo: sua duoc bang kim chi k
+[01:13:49]: [Say] (KU_UnXy3wBQ) NEYUGN: chac la co'
+[01:14:06]: [Say] (KU_UnXy3wBQ) NEYUGN: dc nhe
+[01:15:42]: [Say] (KU_UnXy3wBQ) NEYUGN: di danh kien ko
+[01:15:46]: [Say] (KU_iC59_xkK) Bo: di
+[01:15:54]: [Say] (KU_iC59_xkK) Bo: m dang o nha hay o truong ma do? vay
+[01:16:04]: [Say] (KU_UnXy3wBQ) NEYUGN: nha
+[01:16:17]: [Say] (KU_iC59_xkK) Bo: danh kien can nhung di
+[01:16:20]: [Say] (KU_iC59_xkK) Bo: gi
+[01:16:25]: [Say] (KU_UnXy3wBQ) NEYUGN: mu, gap
+[01:17:11]: [Say] (KU_UnXy3wBQ) NEYUGN: lay da nhiet trong tu lanh ra
+[01:17:15]: [Say] (KU_UnXy3wBQ) NEYUGN: cho nguoi mat
+[01:18:05]: [Say] (KU_UnXy3wBQ) NEYUGN: doi mu bo no'ng
+[01:18:13]: [Say] (KU_UnXy3wBQ) NEYUGN: chuan bi di
+[01:18:15]: [Say] (KU_UnXy3wBQ) NEYUGN: mai danh
+[01:18:41]: [Say] (KU_iC59_xkK) Bo: 

@@ -1,0 +1,482 @@
+[00:00:00]: PersistRootStorage is now /home/steam/.klei//DoNotStarveTogether/Cluster_1/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 305472
+[00:00:00]: Current time: Sat Jan 26 16:47:27 2019
+
+[00:00:00]: System Name: Linux
+[00:00:00]: Host Name: dst
+[00:00:00]: Release(Kernel) Version: 4.15.0-1036-azure
+[00:00:00]: Kernel Build Timestamp: #38-Ubuntu SMP Fri Dec 7 02:47:47 UTC 2018
+[00:00:00]: Machine Arch: x86_64
+[00:00:00]: Don't Starve Together: 305472 LINUX
+[00:00:00]: Build Date: 4609
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -console -cluster Cluster_1 -shard Master 
+[00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
+[00:00:00]: Initializing distribution platform
+[00:00:00]: ....Done
+[00:00:00]: THREAD - started 'GAClient' (4133051200)
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: ProfileIndex:6.59
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: THREAD - started 'Ping Job Thread' (4126145344)
+[00:00:00]: Platform: 1
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: OnLoadPermissionList: /home/steam/.klei//DoNotStarveTogether/Cluster_1/blocklist.txt (Failure)
+[00:00:00]: THREAD - started 'StreamInput' (4121951040)
+[00:00:00]: OnLoadPermissionList: /home/steam/.klei//DoNotStarveTogether/Cluster_1/adminlist.txt (Success)
+[00:00:00]: OnLoadUserIdList: /home/steam/.klei//DoNotStarveTogether/Cluster_1/whitelist.txt (Failure)
+[00:00:00]: Token retrieved from: /home/steam/.klei//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:00]: Token retrieved from: /home/steam/.klei//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:00]:   taskgrouplist:	default	Together	
+[00:00:00]:   taskgrouplist:	classic	Classic	
+[00:00:00]:   taskgrouplist:	cave_default	Underground	
+[00:00:00]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:00]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:00]: running main.lua
+	
+[00:00:00]: loaded modindex	
+[00:00:00]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:00]: DownloadMods(0)
+[00:00:00]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:01]: LOADING LUA SUCCESS
+[00:00:01]: PlayerDeaths could not load morgue	
+[00:00:01]: PlayerHistory could not load player_history	
+[00:00:01]: ServerPreferences could not load server_preferences	
+[00:00:01]: bloom_enabled	false	
+[00:00:01]: loaded saveindex	
+[00:00:01]: OnFilesLoaded()	
+[00:00:01]: OnUpdatePurchaseStateComplete	
+[00:00:01]: Klump load on boot started.	
+[00:00:01]: Klump files loaded: 	0	
+[00:00:01]: 	Load FE	
+[00:00:02]: THREAD - started 'FilesExistAsyncThread' (4093397824)
+[00:00:02]: FilesExistAsyncThread started (20202 files)...
+[00:00:02]: 	Load FE: done	
+[00:00:02]: ModIndex: Load sequence finished successfully.	
+[00:00:02]: Reset() returning
+[00:00:02]: ... FilesExistAsyncThread complete
+[00:00:03]: [200] Account Communication Success (6)
+[00:00:03]: Received (KU_2DNgIhao) from TokenPurpose
+[00:00:03]: Starting Dedicated Server Game	
+[00:00:03]: Network tick rate: U=15(2), D=0
+[00:00:03]: About to start a server with the following settings:
+[00:00:03]:   Dedicated: true
+[00:00:03]:   Online: true
+[00:00:03]:   Passworded: true
+[00:00:03]:   ServerPort: 10999
+[00:00:03]:   SteamAuthPort: 8766
+[00:00:03]:   SteamMasterServerPort: 27016
+[00:00:03]:   ClanID: false
+[00:00:03]:   ClanOnly: false
+[00:00:03]:   ClanAdmin: false
+[00:00:03]:   LanOnly: false
+[00:00:03]:   FriendsOnly: false
+[00:00:03]:   EnableAutosaver: true
+[00:00:03]:   EncodeUserPath: true
+[00:00:03]:   PVP: false
+[00:00:03]:   MaxPlayers: 10
+[00:00:03]:   GameMode: endless
+[00:00:03]:   OverridenDNS: 
+[00:00:03]:   PauseWhenEmpty: true
+[00:00:03]:   IdleTimeout: 1800s
+[00:00:03]:   VoteEnabled: true
+[00:00:03]:   InternetBroadcasting: true
+[00:00:03]:   Intent: madness
+[00:00:03]: Online Server Started on port: 10999
+[00:00:03]: Collecting garbage...
+[00:00:03]: lua_gc took 0.02 seconds
+[00:00:03]: ~ShardLuaProxy()
+[00:00:03]: ~cEventLeaderboardProxy()
+[00:00:03]: ~ItemServerLuaProxy()
+[00:00:03]: ~InventoryLuaProxy()
+[00:00:03]: ~NetworkLuaProxy()
+[00:00:03]: ~SimLuaProxy()
+[00:00:03]: lua_close took 0.03 seconds
+[00:00:03]: ReleaseAll
+[00:00:03]: ReleaseAll Finished
+[00:00:03]: cGame::StartPlaying
+[00:00:03]: LOADING LUA
+[00:00:03]: DoLuaFile scripts/main.lua
+[00:00:03]: DoLuaFile loading buffer scripts/main.lua
+[00:00:03]:   taskgrouplist:	default	Together	
+[00:00:03]:   taskgrouplist:	classic	Classic	
+[00:00:03]:   taskgrouplist:	cave_default	Underground	
+[00:00:03]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:03]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:03]: running main.lua
+	
+[00:00:03]: loaded modindex	
+[00:00:03]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:03]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:03]: LOADING LUA SUCCESS
+[00:00:03]: PlayerDeaths could not load morgue	
+[00:00:03]: PlayerHistory could not load player_history	
+[00:00:03]: ServerPreferences could not load server_preferences	
+[00:00:03]: bloom_enabled	false	
+[00:00:03]: loaded saveindex	
+[00:00:03]: OnFilesLoaded()	
+[00:00:03]: OnUpdatePurchaseStateComplete	
+[00:00:03]: Loading world: session/503514F7F15233FE/0000000408	
+[00:00:03]: Save file is at version 4.77	
+[00:00:03]: Klump load on boot started.	
+[00:00:03]: Klump files loaded: 	0	
+[00:00:03]: 	Unload FE	
+[00:00:03]: 	Unload FE done	
+[00:00:04]: 	LOAD BE	
+[00:00:06]: 	LOAD BE: done	
+[00:00:06]: Begin Session: 503514F7F15233FE
+[00:00:06]: saving to server_temp/server_save	
+[00:00:06]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:06]: Loading 12 new character(s)	
+[00:00:06]: Total 12 character(s) loaded	
+[00:00:06]: Loading Nav Grid	
+[00:00:07]: setting 	summerlength	15	
+[00:00:07]: setting 	isnightmaredawn	false	
+[00:00:07]: setting 	elapseddaysinseason	9	
+[00:00:07]: setting 	isfullmoon	false	
+[00:00:07]: setting 	moisture	1413.9158935547	
+[00:00:07]: setting 	springlength	20	
+[00:00:07]: setting 	isnightmarewild	false	
+[00:00:07]: setting 	moonphase	quarter	
+[00:00:07]: setting 	precipitationrate	0	
+[00:00:07]: setting 	iswet	false	
+[00:00:07]: setting 	isnewmoon	false	
+[00:00:07]: setting 	iswinter	true	
+[00:00:07]: setting 	israining	false	
+[00:00:07]: setting 	isnightmarewarn	false	
+[00:00:07]: setting 	precipitation	none	
+[00:00:07]: setting 	cavephase	dusk	
+[00:00:07]: setting 	moistureceil	2337.2521972656	
+[00:00:07]: setting 	isday	false	
+[00:00:07]: setting 	iscaveday	false	
+[00:00:07]: setting 	season	winter	
+[00:00:07]: setting 	timeinphase	0.75613571166992	
+[00:00:07]: setting 	temperature	-21.579276023636	
+[00:00:07]: setting 	isnightmarecalm	false	
+[00:00:07]: setting 	isnight	false	
+[00:00:07]: setting 	isdusk	true	
+[00:00:07]: setting 	iscavedusk	true	
+[00:00:07]: setting 	isautumn	false	
+[00:00:07]: setting 	issnowing	false	
+[00:00:07]: setting 	iswaxingmoon	false	
+[00:00:07]: setting 	pop	0.46899364502861	
+[00:00:07]: setting 	snowlevel	1	
+[00:00:07]: setting 	issnowcovered	true	
+[00:00:07]: setting 	autumnlength	20	
+[00:00:07]: setting 	phase	dusk	
+[00:00:07]: setting 	nightmaretime	0	
+[00:00:07]: setting 	winterlength	15	
+[00:00:07]: setting 	isspring	false	
+[00:00:07]: setting 	nightmarephase	none	
+[00:00:07]: setting 	remainingdaysinseason	6	
+[00:00:07]: setting 	cycles	379	
+[00:00:07]: setting 	iscavenight	false	
+[00:00:07]: setting 	nightmaretimeinphase	0	
+[00:00:07]: setting 	wetness	0	
+[00:00:07]: setting 	time	0.54879240989685	
+[00:00:07]: setting 	issummer	false	
+[00:00:07]: OVERRIDE: setting	disease_delay	to	none	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:10]: Can't find prefab mushroomstump	
+[00:00:10]: SpawnSaveRecord [nil, mushroomstump] FAILED	
+[00:00:11]: Can't find prefab lamp_post	
+[00:00:11]: SpawnSaveRecord [nil, lamp_post] FAILED	
+[00:00:11]: Can't find prefab lamp_post	
+[00:00:11]: SpawnSaveRecord [nil, lamp_post] FAILED	
+[00:00:11]: Can't find prefab lamp_post	
+[00:00:11]: SpawnSaveRecord [nil, lamp_post] FAILED	
+[00:00:11]: Can't find prefab lamp_post	
+[00:00:11]: SpawnSaveRecord [nil, lamp_post] FAILED	
+[00:00:11]: Can't find prefab lamp_post	
+[00:00:11]: SpawnSaveRecord [nil, lamp_post] FAILED	
+[00:00:11]: Can't find prefab lamp_post	
+[00:00:11]: SpawnSaveRecord [nil, lamp_post] FAILED	
+[00:00:11]: Can't find prefab lamp_post	
+[00:00:11]: SpawnSaveRecord [nil, lamp_post] FAILED	
+[00:00:11]: Can't find prefab lamp_post	
+[00:00:11]: SpawnSaveRecord [nil, lamp_post] FAILED	
+[00:00:11]: Can't find prefab lamp_post	
+[00:00:11]: SpawnSaveRecord [nil, lamp_post] FAILED	
+[00:00:11]: Can't find prefab lamp_post	
+[00:00:11]: SpawnSaveRecord [nil, lamp_post] FAILED	
+[00:00:11]: Can't find prefab lamp_post	
+[00:00:11]: SpawnSaveRecord [nil, lamp_post] FAILED	
+[00:00:11]: Can't find prefab lamp_post	
+[00:00:11]: SpawnSaveRecord [nil, lamp_post] FAILED	
+[00:00:11]: Can't find prefab lamp_post	
+[00:00:11]: SpawnSaveRecord [nil, lamp_post] FAILED	
+[00:00:11]: Can't find prefab lamp_post	
+[00:00:11]: SpawnSaveRecord [nil, lamp_post] FAILED	
+[00:00:11]: Can't find prefab lamp_post	
+[00:00:11]: SpawnSaveRecord [nil, lamp_post] FAILED	
+[00:00:11]: Can't find prefab lamp_post	
+[00:00:11]: SpawnSaveRecord [nil, lamp_post] FAILED	
+[00:00:11]: Can't find prefab lamp_post	
+[00:00:11]: SpawnSaveRecord [nil, lamp_post] FAILED	
+[00:00:11]: Can't find prefab lamp_post	
+[00:00:11]: SpawnSaveRecord [nil, lamp_post] FAILED	
+[00:00:12]: Reconstructing topology	
+[00:00:12]: 	...Sorting points	
+[00:00:12]: 	...Sorting edges	
+[00:00:12]: 	...Connecting nodes	
+[00:00:12]: 	...Validating connections	
+[00:00:12]: 	...Housekeeping	
+[00:00:12]: 	...Done!	
+[00:00:12]: Truncating to snapshot #408...
+[00:00:12]:  - session/503514F7F15233FE/0000000401
+[00:00:12]:  - session/503514F7F15233FE/0000000400
+[00:00:12]:  - session/503514F7F15233FE/0000000396
+[00:00:12]:  - session/503514F7F15233FE/0000000398
+[00:00:12]:  - session/503514F7F15233FE/0000000397
+[00:00:12]:  - session/503514F7F15233FE/0000000402
+[00:00:12]:  - session/503514F7F15233FE/0000000399
+[00:00:12]:  - session/503514F7F15233FE/0000000395
+[00:00:12]:  - session/503514F7F15233FE/A7IQJF717VJ3/0000000402
+[00:00:12]:  - session/503514F7F15233FE/A7IQJF717VJ3/0000000401
+[00:00:12]:  - session/503514F7F15233FE/A7IQJF717VJ3/0000000400
+[00:00:12]:  - session/503514F7F15233FE/A7IQJF717VJ3/0000000399
+[00:00:12]:  - session/503514F7F15233FE/A7IQJF717VJ3/0000000398
+[00:00:12]:  - session/503514F7F15233FE/A7IQJF717VJ3/0000000397
+[00:00:12]:  - session/503514F7F15233FE/A7IQJF717VJ3/0000000386
+[00:00:12]:  - session/503514F7F15233FE/A7LGO54VVESK/0000000402
+[00:00:12]:  - session/503514F7F15233FE/A7LGO54VVESK/0000000401
+[00:00:12]:  - session/503514F7F15233FE/A7LGO54VVESK/0000000400
+[00:00:12]:  - session/503514F7F15233FE/A7LGO54VVESK/0000000399
+[00:00:12]:  - session/503514F7F15233FE/A7LGO54VVESK/0000000398
+[00:00:12]:  - session/503514F7F15233FE/A7LGO54VVESK/0000000397
+[00:00:12]:  - session/503514F7F15233FE/A7LGO54VVESK/0000000396
+[00:00:12]:  - session/503514F7F15233FE/A7LGO54VVESK/0000000395
+[00:00:12]:  - session/503514F7F15233FE/A7JR31U0V8MQ/0000000402
+[00:00:12]:  - session/503514F7F15233FE/A7JR31U0V8MQ/0000000401
+[00:00:12]:  - session/503514F7F15233FE/A7JR31U0V8MQ/0000000400
+[00:00:12]:  - session/503514F7F15233FE/A7JR31U0V8MQ/0000000399
+[00:00:12]:  - session/503514F7F15233FE/A7JR31U0V8MQ/0000000398
+[00:00:12]:  - session/503514F7F15233FE/A7JR31U0V8MQ/0000000396
+[00:00:12]:  - session/503514F7F15233FE/A7JR31U0V8MQ/0000000395
+[00:00:12]:  - session/503514F7F15233FE/A7ICIME690PE/0000000402
+[00:00:12]:  - session/503514F7F15233FE/A7ICIME690PE/0000000401
+[00:00:12]:  - session/503514F7F15233FE/A7ICIME690PE/0000000400
+[00:00:12]:  - session/503514F7F15233FE/A7ICIME690PE/0000000399
+[00:00:12]:  - session/503514F7F15233FE/A7ICIME690PE/0000000398
+[00:00:12]:    35 file(s) removed
+[00:00:12]: Restoring user: session/503514F7F15233FE/A7ICIME690PE/0000000408	
+[00:00:12]: Restoring user: session/503514F7F15233FE/A7LGO54VULOB/0000000408	
+[00:00:12]: Restoring user: session/503514F7F15233FE/A7IQJF717VJ3/0000000408	
+[00:00:12]: Restoring user: session/503514F7F15233FE/A7JR31U0V8MQ/0000000408	
+[00:00:12]: Serializing user: session/503514F7F15233FE/A7LGO54VULOB/0000000409
+[00:00:12]: Serializing user: session/503514F7F15233FE/A7JR31U0V8MQ/0000000409
+[00:00:12]: Serializing user: session/503514F7F15233FE/A7ICIME690PE/0000000409
+[00:00:12]: Serializing user: session/503514F7F15233FE/A7IQJF717VJ3/0000000409
+[00:00:12]: 1 uploads added to server. From server_temp
+[00:00:12]: About to start a shard with these settings:
+[00:00:12]:   ShardName: [SHDMASTER]
+[00:00:12]:   ShardID: 1
+[00:00:12]:   ShardRole: MASTER
+[00:00:12]:   MasterHost: (null)
+[00:00:12]:   MasterBind: 127.0.0.1
+[00:00:12]:   MasterPort: 10888
+[00:00:12]: [Shard] Starting master server
+[00:00:12]: [Shard] Shard server started on port: 10888
+[00:00:12]: Telling Client our new session identifier: 503514F7F15233FE
+[00:00:12]: ModIndex: Load sequence finished successfully.	
+[00:00:13]: Reset() returning
+[00:00:13]: [Steam] SteamGameServer_Init(8766, 10999, 27016)
+[00:00:13]: [Steam] SteamGameServer_Init success
+[00:00:14]: Validating portal[5] <-> 2206599993[5] (inactive)	
+[00:00:14]: Validating portal[9] <-> 2206599993[9] (inactive)	
+[00:00:14]: Validating portal[1] <-> 2206599993[1] (inactive)	
+[00:00:14]: Validating portal[8] <-> 2206599993[8] (inactive)	
+[00:00:14]: Validating portal[7] <-> 2206599993[7] (inactive)	
+[00:00:14]: Validating portal[3] <-> 2206599993[3] (inactive)	
+[00:00:14]: Validating portal[2] <-> 2206599993[2] (inactive)	
+[00:00:14]: Validating portal[10] <-> 2206599993[10] (inactive)	
+[00:00:14]: Validating portal[6] <-> 2206599993[6] (inactive)	
+[00:00:14]: Validating portal[4] <-> 2206599993[4] (inactive)	
+[00:00:14]: Sim paused
+[00:00:15]: Gameserver logged on to Steam, assigned SteamID [A:1:2529967113:11867]
+[00:00:16]: Best lobby region is aws/Sing (ping 2)
+[00:00:16]: Registering master server in Sing lobby
+[00:00:26]: Registering master server in Sing lobby
+[00:02:16]: [P2P] Session request for '76561198318812981'
+[00:02:20]: [P2P] Create session: 51.10.43.75|1 '76561198318812981'
+[00:02:20]: [P2P] Received from 51.10.43.75|1 '76561198318812981'
+[00:02:20]: [P2P] Sent to 51.10.43.75|1 '76561198318812981'
+[00:02:21]: New incoming connection 51.10.43.75|1 <5812299902171864796>
+[00:02:21]: Client connected from 51.10.43.75|1 <5812299902171864796>
+[00:02:21]: ValidateGameSessionToken pgs-sing^KU_iC59_xkK^DontStarveTogether^KnKsvSht8X0CS0JrE7BsTrgYOtCOkyN4+IItVpLlGxs= for <5812299902171864796>
+[00:02:21]: Client authenticated: (KU_iC59_xkK) Bo
+[00:02:21]: [Steam] SendUserConnectAndAuthenticate for '76561198318812981'
+[00:02:21]: [Steam] Authenticated client '76561198318812981'
+[00:02:22]: LOCAL_SKIN_DLC_GRANTING reading bits in DeserializeUnverifiedInventory unread bits 8
+[00:02:23]: There is no active event to validate against.
+[00:02:23]: [Shard] Read save location file for (KU_iC59_xkK)
+[00:02:23]: Registering master server in Sing lobby
+[00:02:39]: Resuming user: session/503514F7F15233FE/A7LGO54VVESK/0000000407
+[00:02:39]: Spawning player at: [Load] (283.56, 0.00, 50.08)	
+[00:02:39]: Sim unpaused
+[00:02:39]: Registering master server in Sing lobby
+[00:03:47]: [P2P] Session request for '76561198453935588'
+[00:03:48]: [P2P] Create session: 51.10.43.76|1 '76561198453935588'
+[00:03:48]: [P2P] Received from 51.10.43.76|1 '76561198453935588'
+[00:03:48]: [P2P] Sent to 51.10.43.76|1 '76561198453935588'
+[00:03:59]: New incoming connection 51.10.43.76|1 <3979803142408865183>
+[00:03:59]: Client connected from 51.10.43.76|1 <3979803142408865183>
+[00:03:59]: ValidateGameSessionToken pgs-sing^KU_UnXy3wBQ^DontStarveTogether^yARvjYClKVDDD2L9pdLTaAMYE/jpMcmzSLS53rMs07k= for <3979803142408865183>
+[00:03:59]: Client authenticated: (KU_UnXy3wBQ) NEYUGN
+[00:04:00]: [Steam] SendUserConnectAndAuthenticate for '76561198453935588'
+[00:04:00]: [Steam] Authenticated client '76561198453935588'
+[00:04:01]: LOCAL_SKIN_DLC_GRANTING reading bits in DeserializeUnverifiedInventory unread bits 8
+[00:04:02]: There is no active event to validate against.
+[00:04:02]: [Shard] Read save location file for (KU_UnXy3wBQ)
+[00:04:04]: Registering master server in Sing lobby
+[00:04:54]: Resuming user: session/503514F7F15233FE/A7JR31U0V8MQ/0000000409
+[00:04:54]: Spawning player at: [Load] (-219.62, 0.00, 282.04)	
+[00:04:54]: Registering master server in Sing lobby
+[00:04:57]: [P2P] Session request for '76561198833396615'
+[00:04:58]: [P2P] Create session: 51.10.43.77|1 '76561198833396615'
+[00:04:58]: [P2P] Received from 51.10.43.77|1 '76561198833396615'
+[00:04:58]: [P2P] Sent to 51.10.43.77|1 '76561198833396615'
+[00:04:58]: New incoming connection 51.10.43.77|1 <6968872698179150463>
+[00:04:58]: Client connected from 51.10.43.77|1 <6968872698179150463>
+[00:04:58]: ValidateGameSessionToken pgs-sing^KU_iC59_rSB^DontStarveTogether^k7x/kg6uj9gFV8BV9oBCyjFGuE02ujGTfHoiy2sO38w= for <6968872698179150463>
+[00:04:58]: Client authenticated: (KU_iC59_rSB) M0wX
+[00:04:58]: [Steam] SendUserConnectAndAuthenticate for '76561198833396615'
+[00:04:59]: Error decoding lua RPC mod namespace
+[00:04:59]: [Steam] Authenticated client '76561198833396615'
+[00:04:59]: LOCAL_SKIN_DLC_GRANTING reading bits in DeserializeUnverifiedInventory unread bits 8
+[00:05:00]: There is no active event to validate against.
+[00:05:00]: [Shard] Read save location file for (KU_iC59_rSB)
+[00:05:04]: Registering master server in Sing lobby
+[00:05:17]: Resuming user: session/503514F7F15233FE/A7LGO54VULOB/0000000409
+[00:05:17]: Spawning player at: [Load] (-269.72, -0.00, 354.32)	
+[00:05:17]: Registering master server in Sing lobby
+[00:05:29]: [(KU_iC59_rSB) M0wX] ReceiveRemoteExecute(local player = UserToPlayer('KU_iC59_rSB') if player ~= nil then if player.Physics ~= nil then player.Physics:Teleport(453.93893432617, 0, 204.28393554688) else player.Transform:SetPosition(453.93893432617, 0, 204.28393554688) end end) @(-268.84, 353.31)
+[00:06:04]: RemoteCommandInput: "c_shutdown()"
+[00:06:04]: c_shutdown	nil	
+[00:06:05]: Serializing user: session/503514F7F15233FE/A7LGO54VVESK/0000000409
+[00:06:05]: Serializing user: session/503514F7F15233FE/A7JR31U0V8MQ/0000000409
+[00:06:05]: Serializing user: session/503514F7F15233FE/A7LGO54VULOB/0000000409
+[00:06:05]: Serializing world: session/503514F7F15233FE/0000000409
+[00:06:05]: Truncating to snapshot #409...
+[00:06:05]:  - session/503514F7F15233FE/0000000403
+[00:06:05]:  - session/503514F7F15233FE/A7IQJF717VJ3/0000000403
+[00:06:05]:  - session/503514F7F15233FE/A7LGO54VVESK/0000000403
+[00:06:05]:  - session/503514F7F15233FE/A7JR31U0V8MQ/0000000403
+[00:06:05]:  - session/503514F7F15233FE/A7ICIME690PE/0000000403
+[00:06:05]:    5 file(s) removed
+[00:06:05]: Serializing user: session/503514F7F15233FE/A7LGO54VVESK/0000000410
+[00:06:05]: Serializing user: session/503514F7F15233FE/A7JR31U0V8MQ/0000000410
+[00:06:05]: Serializing user: session/503514F7F15233FE/A7LGO54VULOB/0000000410
+[00:06:06]: Serializing world: session/503514F7F15233FE/0000000410
+[00:06:06]: Truncating to snapshot #410...
+[00:06:06]:  - session/503514F7F15233FE/0000000404
+[00:06:06]:  - session/503514F7F15233FE/A7IQJF717VJ3/0000000404
+[00:06:06]:  - session/503514F7F15233FE/A7LGO54VVESK/0000000404
+[00:06:06]:  - session/503514F7F15233FE/A7ICIME690PE/0000000404
+[00:06:06]:    4 file(s) removed
+[00:06:06]: Removing server from Sing lobby
+[00:06:06]: [Shard] Stopping shard mode
+[00:06:06]: Collecting garbage...
+[00:06:07]: lua_gc took 0.28 seconds
+[00:06:07]: ~ShardLuaProxy()
+[00:06:07]: ~cEventLeaderboardProxy()
+[00:06:07]: ~ItemServerLuaProxy()
+[00:06:07]: ~InventoryLuaProxy()
+[00:06:07]: ~NetworkLuaProxy()
+[00:06:07]: ~SimLuaProxy()
+[00:06:07]: lua_close took 0.45 seconds
+[00:06:07]: CurlRequestManager::ClientThread::Main() complete
+[00:06:07]: HttpClient2 discarded 1 callbacks.
+[00:06:07]: Shutting down

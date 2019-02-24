@@ -1,0 +1,46 @@
+[05:46:25]: [Join Announcement] NEYUGN
+[05:48:55]: [Leave Announcement] NEYUGN
+[06:05:09]: [Join Announcement] NEYUGN
+[06:08:08]: [Death Announcement] NEYUGN was killed by Maxwell's Tooth Trap. She became a spooky ghost!
+[06:08:18]: [Vote Announcement] rollback passed
+[06:10:13]: [Join Announcement] Bo
+[06:12:41]: [Say] (KU_iC59_xkK) Bo: m khong on thi a nguyen?
+[06:18:03]: [Say] (KU_UnXy3wBQ) NEYUGN: nhieu thit ha
+[06:18:12]: [Say] (KU_UnXy3wBQ) NEYUGN: gio on thi gi nua
+[06:18:17]: [Say] (KU_UnXy3wBQ) NEYUGN: choi cho thoai mai
+[06:18:22]: [Say] (KU_UnXy3wBQ) NEYUGN: mai thi roi
+[06:18:29]: [Say] (KU_UnXy3wBQ) NEYUGN: on nua cung chang vao
+[06:18:50]: [Say] (KU_iC59_xkK) Bo: hay nhi =))) on thi cuoi ki thi hoc den tan truoc gio thi, con thi may cai khac thi =))))
+[06:18:58]: [Say] (KU_iC59_xkK) Bo: dung la thoi hoc sinh sinh vien
+[06:19:18]: [Say] (KU_UnXy3wBQ) NEYUGN: cuoi ki ko on thi hoc lai
+[06:19:27]: [Say] (KU_UnXy3wBQ) NEYUGN: thi nay ko co' qua hay ko
+[06:23:09]: [Say] (KU_UnXy3wBQ) NEYUGN: de t
+[06:23:19]: [Death Announcement] Bo was killed by Birchnutter. He became a spooky ghost!
+[06:23:23]: [Say] (KU_iC59_xkK) Bo: roll
+[06:23:33]: [Say] (KU_UnXy3wBQ) NEYUGN: thoi
+[06:23:34]: [Say] (KU_iC59_xkK) Bo: khong de y
+[06:23:43]: [Say] (KU_iC59_xkK) Bo: phi lv cua t =)))
+[06:23:56]: [Say] (KU_UnXy3wBQ) NEYUGN: thich t set lv cho
+[06:23:58]: [Say] (KU_iC59_xkK) Bo: af thoi
+[06:24:26]: [Say] (KU_iC59_xkK) Bo: dang le bam nut space thi t lai bam nut F
+[06:24:29]: [Say] (KU_iC59_xkK) Bo: -_-
+[06:24:35]: [Say] (KU_iC59_xkK) Bo: nham lan dang tiec
+[06:24:39]: [Say] (KU_iC59_xkK) Bo: lao ra khong kip
+[06:25:30]: [Death Announcement] NEYUGN was killed by Birchnut Tree. She became a spooky ghost!
+[06:25:36]: [Vote Announcement] rollback passed
+[06:27:24]: [Say] (KU_iC59_xkK) Bo: boss dau roi??
+[06:27:43]: [Say] (KU_UnXy3wBQ) NEYUGN: co xac suat ra ma
+[06:35:35]: [Say] (KU_iC59_xkK) Bo: o, nha deo trong grass
+[06:35:43]: [Say] (KU_UnXy3wBQ) NEYUGN: nha ngay dong co
+[06:35:49]: [Say] (KU_UnXy3wBQ) NEYUGN: trong gi nua
+[06:36:09]: [Say] (KU_UnXy3wBQ) NEYUGN: m trong di
+[06:36:20]: [Say] (KU_UnXy3wBQ) NEYUGN: xay hang dao nua
+[06:36:36]: [Say] (KU_iC59_xkK) Bo: cho
+[06:36:43]: [Say] (KU_UnXy3wBQ) NEYUGN: oke
+[06:36:49]: [Say] (KU_UnXy3wBQ) NEYUGN: ra cho t
+[06:36:59]: [Say] (KU_UnXy3wBQ) NEYUGN: ra cho con lon
+[06:43:10]: [Say] (KU_UnXy3wBQ) NEYUGN: ra day danh nhen v t ne
+[06:45:07]: [Say] (KU_UnXy3wBQ) NEYUGN: cvao di
+[07:05:49]: [Say] (KU_UnXy3wBQ) NEYUGN: ke noa
+[07:06:39]: [Say] (KU_UnXy3wBQ) NEYUGN: cho may con lon danh nhau
+[07:07:28]: [Say] (KU_UnXy3wBQ) NEYUGN: 

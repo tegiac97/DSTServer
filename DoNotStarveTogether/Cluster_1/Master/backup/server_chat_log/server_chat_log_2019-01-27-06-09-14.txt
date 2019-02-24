@@ -1,0 +1,6 @@
+[07:42:41]: [Join Announcement] Bo
+[08:10:59]: [Death Announcement] Bo was killed by Spider. He became a spooky ghost!
+[08:10:59]: [Resurrect Announcement] Bo was resurrected by Shenanigans.
+[08:11:06]: [Death Announcement] Bo was killed by Spider Warrior. He became a spooky ghost!
+[08:11:09]: [Vote Announcement] rollback passed
+[08:51:11]: [Leave Announcement] Bo

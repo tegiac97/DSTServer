@@ -1,0 +1,6 @@
+[00:02:38]: [Join Announcement] Bo
+[00:04:52]: [Join Announcement] NEYUGN
+[00:05:15]: [Join Announcement] M0wX
+[00:06:06]: [Leave Announcement] NEYUGN
+[00:06:06]: [Leave Announcement] Bo
+[00:06:06]: [Leave Announcement] M0wX

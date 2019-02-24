@@ -1,0 +1,44 @@
+[07:43:04]: [Join Announcement] Bo
+[08:11:22]: [Death Announcement] Bo was killed by Spider. He became a spooky ghost!
+[08:11:22]: [Resurrect Announcement] Bo was resurrected by Shenanigans.
+[08:11:29]: [Death Announcement] Bo was killed by Spider Warrior. He became a spooky ghost!
+[08:11:32]: [Vote Announcement] rollback passed
+[08:51:34]: [Leave Announcement] Bo
+[11:10:53]: [Join Announcement] Bo
+[11:14:40]: [Join Announcement] NEYUGN
+[11:24:10]: [Say] (KU_UnXy3wBQ) NEYUGN: vui day
+[11:24:38]: [Say] (KU_iC59_xkK) Bo: no o tab nao day
+[11:24:49]: [Say] (KU_UnXy3wBQ) NEYUGN: fight
+[11:26:00]: [Death Announcement] NEYUGN was killed by Bo. She became a spooky ghost!
+[11:26:02]: [Say] (KU_UnXy3wBQ) NEYUGN: dm
+[11:26:05]: [Vote Announcement] rollback passed
+[11:26:10]: [Resurrect Announcement] NEYUGN was resurrected by Life Giving Amulet.
+[11:29:02]: [Say] (KU_iC59_xkK) Bo: bat godmode len
+[11:29:10]: [Say] (KU_UnXy3wBQ) NEYUGN: oke
+[11:29:35]: [Say] (KU_UnXy3wBQ) NEYUGN: m choi godmode a
+[11:29:41]: [Say] (KU_UnXy3wBQ) NEYUGN: mua he mac ao gau?
+[11:30:18]: [Say] (KU_UnXy3wBQ) NEYUGN: ping t do?
+[11:33:31]: [Say] (KU_iC59_xkK) Bo: cho'
+[11:33:55]: [Death Announcement] Bo was killed by Spider. He became a spooky ghost!
+[11:34:09]: [Resurrect Announcement] Bo was resurrected by Shenanigans.
+[11:34:14]: [Say] (KU_UnXy3wBQ) NEYUGN: ?
+[11:35:14]: [Say] (KU_UnXy3wBQ) NEYUGN: cai nay dao aoe
+[11:37:41]: [Say] (KU_UnXy3wBQ) NEYUGN: ao' mat nay
+[11:37:57]: [Say] (KU_UnXy3wBQ) NEYUGN: bo cai mu ra
+[11:38:01]: [Say] (KU_UnXy3wBQ) NEYUGN: chet nong
+[11:38:06]: [Say] (KU_iC59_xkK) Bo: sua duoc bang kim chi k
+[11:38:13]: [Say] (KU_UnXy3wBQ) NEYUGN: chac la co'
+[11:38:30]: [Say] (KU_UnXy3wBQ) NEYUGN: dc nhe
+[11:40:06]: [Say] (KU_UnXy3wBQ) NEYUGN: di danh kien ko
+[11:40:10]: [Say] (KU_iC59_xkK) Bo: di
+[11:40:18]: [Say] (KU_iC59_xkK) Bo: m dang o nha hay o truong ma do? vay
+[11:40:28]: [Say] (KU_UnXy3wBQ) NEYUGN: nha
+[11:40:41]: [Say] (KU_iC59_xkK) Bo: danh kien can nhung di
+[11:40:44]: [Say] (KU_iC59_xkK) Bo: gi
+[11:40:49]: [Say] (KU_UnXy3wBQ) NEYUGN: mu, gap
+[11:41:35]: [Say] (KU_UnXy3wBQ) NEYUGN: lay da nhiet trong tu lanh ra
+[11:41:39]: [Say] (KU_UnXy3wBQ) NEYUGN: cho nguoi mat
+[11:42:29]: [Say] (KU_UnXy3wBQ) NEYUGN: doi mu bo no'ng
+[11:42:37]: [Say] (KU_UnXy3wBQ) NEYUGN: chuan bi di
+[11:42:39]: [Say] (KU_UnXy3wBQ) NEYUGN: mai danh
+[11:43:05]: [Say] (KU_iC59_xkK) Bo: 

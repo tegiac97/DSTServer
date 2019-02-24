@@ -1,0 +1,4 @@
+[00:09:00]: [Join Announcement] Ocean
+[00:10:00]: [Join Announcement] Monster
+[00:11:02]: [Say] (KU_2DNgIhao) Monster: oh oh
+[00:11:17]: [Say] (KU_MflE4_vZ) Ocean: 

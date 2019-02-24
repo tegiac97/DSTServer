@@ -1,0 +1,6 @@
+[00:01:10]: [Join Announcement] Bo
+[00:04:05]: [Leave Announcement] Bo
+[00:10:02]: [Join Announcement] Ocean
+[00:11:49]: [Join Announcement] ErikoM
+[00:12:00]: [Say] (KU_A1Twu5LE) ErikoM: =)))
+[00:13:05]: [Say] (KU_MflE4_vZ) Ocean: 

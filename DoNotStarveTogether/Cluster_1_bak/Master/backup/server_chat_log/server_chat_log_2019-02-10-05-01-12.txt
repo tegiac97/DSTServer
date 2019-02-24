@@ -1,0 +1,15 @@
+[00:01:20]: [Join Announcement] Bo
+[00:03:24]: [Leave Announcement] Bo
+[00:05:35]: [Join Announcement] Bo
+[00:05:38]: [Leave Announcement] Bo
+[00:16:51]: [Join Announcement] NEYUGN
+[00:17:46]: [Leave Announcement] NEYUGN
+[00:47:28]: [Join Announcement] NEYUGN
+[01:02:07]: [Skin Announcement] NEYUGN body_suspenders_white_pure
+[01:05:18]: [Join Announcement] Bo
+[01:05:31]: [Say] (KU_iC59_xkK) Bo: where?
+[01:06:45]: [Say] (KU_UnXy3wBQ) NEYUGN: Meo dau
+[01:06:48]: [Say] (KU_iC59_xkK) Bo: nghi roi
+[01:07:12]: [Say] (KU_UnXy3wBQ) NEYUGN: troi sang cat cau mu di
+[01:07:21]: [Say] (KU_UnXy3wBQ) NEYUGN: nong
+[01:08:02]: [Say] (KU_iC59_xkK) Bo: 

@@ -1,0 +1,10 @@
+[00:01:32]: [Join Announcement] Bo
+[00:01:50]: [Join Announcement] Ocean
+[00:03:52]: [Say] (KU_iC59_rSB) M0wX: roll kieu loz gi danh lai bq the nay
+[00:04:42]: [Leave Announcement] Ocean
+[00:05:05]: [Leave Announcement] NEYUGN
+[00:06:18]: [Join Announcement] Ocean
+[00:06:25]: [Say] (KU_iC59_rSB) M0wX: hello =))
+[00:06:39]: [Say] (KU_iC59_rSB) M0wX: noi thi deo ai tin
+[00:08:30]: [Join Announcement] NEYUGN
+[00:11:32]: [Say] (KU_iC59_xkK) Bo: 
